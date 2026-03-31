@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T17:45:00.0Z",
+  "breeze": {
+    "narrative": "Breeze made news today on Long Island. Greater Long Island reported that the airline is adding a new BreezeThru connection from Long Island MacArthur Airport, routing through Myrtle Beach before continuing to Akron-Canton Airport in Ohio, with service beginning May 6 and fares from $175 each way on twice-weekly flights. The announcement continues Breeze's pattern of opening secondary-market connections that legacy carriers ignore and gives communications a spring booking season angle for the New York metro market.",
+    "stories": [
+      {
+        "headline": "Breeze Airways Adds BreezeThru Service from Long Island MacArthur Airport to Akron-Canton, Ohio",
+        "source": "Greater Long Island",
+        "url": "https://greaterlongisland.com/breeze-airways-to-begin-new-service-from-macarthur-airport-to-ohio/",
+        "published": "2026-03-31",
+        "summary": "Breeze will launch BreezeThru service from ISP through Myrtle Beach to Akron-Canton Airport (CAK) starting May 6, with fares from $175 each way and flights operating Wednesdays and Saturdays outbound.",
+        "opportunity": "Activate spring booking season media outreach in the New York metro market highlighting Breeze's growing MacArthur hub and the new Ohio connectivity."
+      }
+    ]
+  },
+  "industry": {
+    "stories": [
+      {
+        "headline": "TSA Shutdown Reaches Six Weeks: 3 Missed Paychecks, Record Callouts, FAA Flight Cap, DHS Secretary Fired",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/03/31/us/tsa-shutdown-over-airports-wait-times",
+        "published": "2026-03-31",
+        "summary": "CNN reported that 61,000 TSA officers have now missed three paychecks across six weeks of the partial DHS government shutdown, with 500+ resignations, a record 11.83% callout rate, ICE agents deployed to 14 airports, an FAA cap of 280 fewer daily flights, and DHS Secretary Kristi Noem fired; TSA workers received partial back pay Monday but union officials warn disruptions could persist for weeks.",
+        "opportunity": "Assess whether Breeze's secondary airports are experiencing lighter disruption than major hubs and evaluate a proactive passenger communications strategy around checkpoint conditions at Breeze gates."
+      },
+      {
+        "headline": "Jet Fuel Prices Double Amid Iran Conflict; United Cuts 5% Capacity, Shortage Warning Issued",
+        "source": "Euronews / Airlive",
+        "url": "https://www.euronews.com/travel/2026/03/30/more-airlines-increase-airfares-as-iran-war-drives-jet-fuel-price-spikes",
+        "published": "2026-03-30",
+        "summary": "Jet fuel prices climbed from ~$96/barrel in late February to ~$197/barrel by late March due to the Iran conflict restricting Strait of Hormuz oil flows; United Airlines has already cut 5% of capacity and Airlive reported Tuesday that analysts warn a critical shortage could hit major hubs within days, with Trump urging countries to 'go get your own oil' in a Truth Social post.",
+        "opportunity": "Breeze's A220 fleet-efficiency story becomes a concrete competitive differentiator right now; evaluate whether secondary-market routes vacated by legacy carriers create near-term expansion openings."
+      },
+      {
+        "headline": "60 Minutes Airs Flight 5342 Collision Footage; FAA Bans Visual Separation at High-Traffic Airports",
+        "source": "Airlive / CBS News",
+        "url": "https://airlive.net/accident/2026/03/30/60-minutes-releases-harrowing-footage-of-deadliest-u-s-aviation-disaster-in-decades/",
+        "published": "2026-03-30",
+        "summary": "60 Minutes aired previously unreleased footage of the January 2025 American Airlines Flight 5342 / Black Hawk collision that killed 67 near Reagan National, while CBS reported the FAA had already issued a General Notice in mid-March permanently banning visual separation between fixed-wing aircraft and helicopters at all high-traffic airports.",
+        "opportunity": "Confirm leadership awareness of the new FAA rule and assess whether any Breeze airports with helicopter corridor proximity warrant an operational review or preemptive passenger communication."
+      },
+      {
+        "headline": "IATA: February Global Air Passenger Demand Up 6.1%, Record 81.4% Load Factor",
+        "source": "IATA",
+        "url": "https://www.iata.org/en/pressroom/2026-releases/2026-03-31-01/",
+        "published": "2026-03-31",
+        "summary": "IATA released February 2026 data showing total passenger demand (RPK) grew 6.1% year over year with a record 81.4% load factor for February; North America grew 2.8%, while Director General Willie Walsh cautioned that rising fuel costs and Middle East war uncertainty are already slowing capacity planning on affected routes.",
+        "opportunity": "North America's 2.8% demand growth confirms a healthy spring baseline for Breeze's booking season, supporting the case that secondary-market travelers are seeking affordable non-stop options as fares at legacy carriers rise."
+      },
+      {
+        "headline": "Delta A350 Declares Emergency, Diverts to Antofagasta — Second Incident in South America in Two Days",
+        "source": "Airlive",
+        "url": "https://airlive.net/emergency/2026/03/31/delta-flight-dl147-airbus-a350-from-atlanta-to-santiago-declared-an-emergency-and-diverted/",
+        "published": "2026-03-31",
+        "summary": "Delta Flight DL147 (A350-900, Atlanta–Santiago) squawked 7700 and diverted safely to Antofagasta, Chile on Tuesday; the cause is unknown, and it follows a Delta A330 uncontained engine failure in São Paulo the day before.",
+        "opportunity": "Monitor for media amplification of airline safety concerns; brief frontline communications staff to address potential passenger questions about safety standards and fleet reliability industrywide."
+      }
+    ]
+  }
+}
