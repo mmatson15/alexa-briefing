@@ -1,60 +1,41 @@
 {
-  "date": "2026-03-31",
-  "generated_at": "2026-03-31T17:45:00.0Z",
+  "date": "2026-04-01",
+  "generated_at": "2026-04-01T06:45:00.0Z",
+  "validation_warning": "WebFetch returned HTTP 403 for all attempted source URLs (30+ attempts across all major news domains). No article body content could be loaded for full verification. Story dates confirmed via: explicit date text in search snippets, URL date patterns (e.g. /2026/04/01/), and cross-referencing multiple independent search results. Stories excluded if date could not be confirmed within the 24-hour window (March 31 – April 1, 2026) by at least one of these methods.",
   "breeze": {
-    "narrative": "Breeze made news today on Long Island. Greater Long Island reported that the airline is adding a new BreezeThru connection from Long Island MacArthur Airport, routing through Myrtle Beach before continuing to Akron-Canton Airport in Ohio, with service beginning May 6 and fares from $175 each way on twice-weekly flights. The announcement continues Breeze's pattern of opening secondary-market connections that legacy carriers ignore and gives communications a spring booking season angle for the New York metro market.",
-    "stories": [
-      {
-        "headline": "Breeze Airways Adds BreezeThru Service from Long Island MacArthur Airport to Akron-Canton, Ohio",
-        "source": "Greater Long Island",
-        "url": "https://greaterlongisland.com/breeze-airways-to-begin-new-service-from-macarthur-airport-to-ohio/",
-        "published": "2026-03-31",
-        "summary": "Breeze will launch BreezeThru service from ISP through Myrtle Beach to Akron-Canton Airport (CAK) starting May 6, with fares from $175 each way and flights operating Wednesdays and Saturdays outbound.",
-        "opportunity": "Activate spring booking season media outreach in the New York metro market highlighting Breeze's growing MacArthur hub and the new Ohio connectivity."
-      }
-    ]
+    "narrative": "No new Breeze Airways coverage confirmed in the last 24 hours. Breeze is out of the news cycle on April 1, 2026 — no crisis flags, no negative press, no competitor attacks on the brand. The most recent confirmed Breeze news remains the February 24, 2026 West Coast and intra-Florida service expansion announcement. The macro environment (Iran war fuel costs, hub disruptions, global capacity cuts) creates a favorable backdrop for proactive communications positioning Breeze's domestic, point-to-point model as a stable alternative.",
+    "stories": []
   },
   "industry": {
     "stories": [
       {
-        "headline": "TSA Shutdown Reaches Six Weeks: 3 Missed Paychecks, Record Callouts, FAA Flight Cap, DHS Secretary Fired",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/03/31/us/tsa-shutdown-over-airports-wait-times",
+        "headline": "IATA Cuts April Global Seat Capacity Growth to 2.7% as Iran War Doubles Jet Fuel; Trump Signals War Could End in Weeks",
+        "source": "AeroTime / Semafor / CNN",
+        "url": "https://www.aerotime.aero/articles/iran-war-forces-iata-to-cut-global-seat-capacity-growth-projections",
+        "secondary_url": "https://www.semafor.com/article/03/30/2026/iran-war-upends-aviation-strategies",
         "published": "2026-03-31",
-        "summary": "CNN reported that 61,000 TSA officers have now missed three paychecks across six weeks of the partial DHS government shutdown, with 500+ resignations, a record 11.83% callout rate, ICE agents deployed to 14 airports, an FAA cap of 280 fewer daily flights, and DHS Secretary Kristi Noem fired; TSA workers received partial back pay Monday but union officials warn disruptions could persist for weeks.",
-        "opportunity": "Assess whether Breeze's secondary airports are experiencing lighter disruption than major hubs and evaluate a proactive passenger communications strategy around checkpoint conditions at Breeze gates."
+        "date_confidence": "HIGH — AeroTime search snippet explicitly states 'On March 31, 2026, IATA announced'; CNN article URL confirms date 2026/04/01",
+        "summary": "IATA revised its April global seat capacity growth projection to just 2.7% year-over-year (down from a prior 5.2% forecast), citing the Iran war's Strait of Hormuz closure driving jet fuel to ~$197/barrel — nearly double the ~$96/barrel pre-war price. Approximately 1.7 million weekly seats have been removed from global airline schedules; Gulf carrier operations (Emirates, Etihad, Qatar Airways) are running at 30–70% of pre-war levels. United Airlines was the first major U.S. carrier to cut capacity (5%). Overnight, Iran struck Kuwait airport fuel depots with drones. CNN reported April 1 that President Trump told reporters the U.S. could be done with the conflict in two to three weeks, sending oil prices lower.",
+        "opportunity": "Breeze's domestic-only, secondary-airport model is fully insulated from direct Middle East disruption; leadership should evaluate forward fuel contract opportunities before any ceasefire shifts prices lower, and push earned media positioning Breeze as the stable, affordable domestic leisure option during a period of global aviation instability."
       },
       {
-        "headline": "Jet Fuel Prices Double Amid Iran Conflict; United Cuts 5% Capacity, Shortage Warning Issued",
-        "source": "Euronews / Airlive",
-        "url": "https://www.euronews.com/travel/2026/03/30/more-airlines-increase-airfares-as-iran-war-drives-jet-fuel-price-spikes",
-        "published": "2026-03-30",
-        "summary": "Jet fuel prices climbed from ~$96/barrel in late February to ~$197/barrel by late March due to the Iran conflict restricting Strait of Hormuz oil flows; United Airlines has already cut 5% of capacity and Airlive reported Tuesday that analysts warn a critical shortage could hit major hubs within days, with Trump urging countries to 'go get your own oil' in a Truth Social post.",
-        "opportunity": "Breeze's A220 fleet-efficiency story becomes a concrete competitive differentiator right now; evaluate whether secondary-market routes vacated by legacy carriers create near-term expansion openings."
-      },
-      {
-        "headline": "60 Minutes Airs Flight 5342 Collision Footage; FAA Bans Visual Separation at High-Traffic Airports",
-        "source": "Airlive / CBS News",
-        "url": "https://airlive.net/accident/2026/03/30/60-minutes-releases-harrowing-footage-of-deadliest-u-s-aviation-disaster-in-decades/",
-        "published": "2026-03-30",
-        "summary": "60 Minutes aired previously unreleased footage of the January 2025 American Airlines Flight 5342 / Black Hawk collision that killed 67 near Reagan National, while CBS reported the FAA had already issued a General Notice in mid-March permanently banning visual separation between fixed-wing aircraft and helicopters at all high-traffic airports.",
-        "opportunity": "Confirm leadership awareness of the new FAA rule and assess whether any Breeze airports with helicopter corridor proximity warrant an operational review or preemptive passenger communication."
-      },
-      {
-        "headline": "IATA: February Global Air Passenger Demand Up 6.1%, Record 81.4% Load Factor",
-        "source": "IATA",
-        "url": "https://www.iata.org/en/pressroom/2026-releases/2026-03-31-01/",
+        "headline": "Chicago O'Hare Logs 1,318 Delays and 148 Cancellations; Nationwide Disruptions Exceed 4,400 Delays and 257 Cancellations",
+        "source": "Travel and Tour World [unverified] / FAA Daily Air Traffic Advisory (confirmed)",
+        "url": "https://www.travelandtourworld.com/news/article/massive-travel-disruptions-in-the-usa-as-united-american-republic-skywest-envoy-air-and-others-cancel-148-and-delay-1318-flights-at-chicago-disrupting-new-york-toronto-detroit-atlanta-and-more-routes/",
         "published": "2026-03-31",
-        "summary": "IATA released February 2026 data showing total passenger demand (RPK) grew 6.1% year over year with a record 81.4% load factor for February; North America grew 2.8%, while Director General Willie Walsh cautioned that rising fuel costs and Middle East war uncertainty are already slowing capacity planning on affected routes.",
-        "opportunity": "North America's 2.8% demand growth confirms a healthy spring baseline for Breeze's booking season, supporting the case that secondary-market travelers are seeking affordable non-stop options as fares at legacy carriers rise."
+        "date_confidence": "MEDIUM — FAA daily advisory independently confirmed thunderstorms at Chicago (ORD, MDW) on March 31, 2026; Travel and Tour World article appeared in 'today April 2026' search but is an unverified outlet; disruption statistics could not be verified via WebFetch",
+        "summary": "Thunderstorms at Chicago drove 1,318 delays and 148 cancellations at O'Hare alone on March 31, with nationwide totals reaching 4,458 delays and 257 cancellations. United Airlines was the hardest-hit carrier (522 delays, 24 cancellations), followed by Delta (221 delays) and American Airlines (277 delays). LaGuardia, LAX, Denver, and Atlanta also experienced cascading disruptions.",
+        "opportunity": "Breeze avoids Chicago O'Hare entirely; the communications team should develop or activate a rapid-response playbook that leverages hub-meltdown headlines to reinforce Breeze's secondary-airport, point-to-point value proposition — social posts, reactive media quotes, or pre-drafted messaging about the Breeze passenger experience versus hub gridlock."
       },
       {
-        "headline": "Delta A350 Declares Emergency, Diverts to Antofagasta — Second Incident in South America in Two Days",
-        "source": "Airlive",
-        "url": "https://airlive.net/emergency/2026/03/31/delta-flight-dl147-airbus-a350-from-atlanta-to-santiago-declared-an-emergency-and-diverted/",
-        "published": "2026-03-31",
-        "summary": "Delta Flight DL147 (A350-900, Atlanta–Santiago) squawked 7700 and diverted safely to Antofagasta, Chile on Tuesday; the cause is unknown, and it follows a Delta A330 uncontained engine failure in São Paulo the day before.",
-        "opportunity": "Monitor for media amplification of airline safety concerns; brief frontline communications staff to address potential passenger questions about safety standards and fleet reliability industrywide."
+        "headline": "ITA Airways Officially Joins Star Alliance as 26th Member, Adopts Lufthansa Group Miles & More Program",
+        "source": "Aviation A2Z / LoyaltyLobby / Asian Aviation / Economy Class & Beyond",
+        "url": "https://aviationa2z.com/index.php/2026/03/24/ita-airways-joining-star-alliance/",
+        "secondary_url": "https://asianaviation.com/airline-news-in-brief-01-april-2026/",
+        "published": "2026-04-01",
+        "date_confidence": "HIGH — Multiple independent sources confirm April 1, 2026 as official joining date; URL of Asian Aviation article explicitly contains '01-april-2026'; LoyaltyLobby article URL contains '2026/03/31' confirming advance coverage; event date confirmed across 5+ sources",
+        "summary": "ITA Airways — the Italian flag carrier backed by Lufthansa Group following its January 2025 partial acquisition — officially became Star Alliance's 26th member on April 1, 2026. ITA simultaneously exited its legacy Volare loyalty program and adopted Miles & More, connecting Rome Fiumicino and Milan Linate to 1,150+ Star Alliance destinations and adding 350+ daily flights to the alliance network. The joining ceremony was held at the Piazza di Spagna Lounge at Rome Fiumicino Terminal 3.",
+        "opportunity": "As Breeze's international leisure routes to Cancun, Montego Bay, and Punta Cana mature, leadership should assess whether selective interline or codeshare conversations with Star Alliance members — particularly Lufthansa Group carriers already routing European vacation travelers through U.S. East Coast airports Breeze serves — could unlock inbound demand without a full alliance commitment."
       }
     ]
   }
