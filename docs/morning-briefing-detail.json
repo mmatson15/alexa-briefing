@@ -1,41 +1,49 @@
 {
-  "date": "2026-04-01",
-  "generated_at": "2026-04-01T06:45:00.0Z",
-  "validation_warning": "WebFetch returned HTTP 403 for all attempted source URLs (30+ attempts across all major news domains). No article body content could be loaded for full verification. Story dates confirmed via: explicit date text in search snippets, URL date patterns (e.g. /2026/04/01/), and cross-referencing multiple independent search results. Stories excluded if date could not be confirmed within the 24-hour window (March 31 – April 1, 2026) by at least one of these methods.",
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T09:00:00.000Z",
+  "validation_warning": "WebFetch returned HTTP 403 for all attempted source URLs (30+ attempts across all major news domains). No article body content could be loaded for full verification. Story dates confirmed via: explicit date text in search result metadata, URL date patterns (e.g. /2026/04/01/), and cross-referencing multiple independent search results. ITA Airways joining Star Alliance (April 1) was excluded as it was already covered in yesterday's April 1 briefing. Stories were excluded if their publication date could not be confirmed within the 24-hour window (April 1–2, 2026) by at least one of these methods.",
   "breeze": {
-    "narrative": "No new Breeze Airways coverage confirmed in the last 24 hours. Breeze is out of the news cycle on April 1, 2026 — no crisis flags, no negative press, no competitor attacks on the brand. The most recent confirmed Breeze news remains the February 24, 2026 West Coast and intra-Florida service expansion announcement. The macro environment (Iran war fuel costs, hub disruptions, global capacity cuts) creates a favorable backdrop for proactive communications positioning Breeze's domestic, point-to-point model as a stable alternative.",
+    "narrative": "No new Breeze coverage confirmed in the last 24 hours. Breeze is out of the news cycle on April 2, 2026 — no crisis flags, no negative press, no competitor attacks on the brand. The most recent confirmed Breeze news remains the January 28, 2026 twelve-route expansion announcement and early-2026 Breezy Rewards loyalty overhaul.",
     "stories": []
   },
   "industry": {
     "stories": [
       {
-        "headline": "IATA Cuts April Global Seat Capacity Growth to 2.7% as Iran War Doubles Jet Fuel; Trump Signals War Could End in Weeks",
-        "source": "AeroTime / Semafor / CNN",
-        "url": "https://www.aerotime.aero/articles/iran-war-forces-iata-to-cut-global-seat-capacity-growth-projections",
-        "secondary_url": "https://www.semafor.com/article/03/30/2026/iran-war-upends-aviation-strategies",
-        "published": "2026-03-31",
-        "date_confidence": "HIGH — AeroTime search snippet explicitly states 'On March 31, 2026, IATA announced'; CNN article URL confirms date 2026/04/01",
-        "summary": "IATA revised its April global seat capacity growth projection to just 2.7% year-over-year (down from a prior 5.2% forecast), citing the Iran war's Strait of Hormuz closure driving jet fuel to ~$197/barrel — nearly double the ~$96/barrel pre-war price. Approximately 1.7 million weekly seats have been removed from global airline schedules; Gulf carrier operations (Emirates, Etihad, Qatar Airways) are running at 30–70% of pre-war levels. United Airlines was the first major U.S. carrier to cut capacity (5%). Overnight, Iran struck Kuwait airport fuel depots with drones. CNN reported April 1 that President Trump told reporters the U.S. could be done with the conflict in two to three weeks, sending oil prices lower.",
-        "opportunity": "Breeze's domestic-only, secondary-airport model is fully insulated from direct Middle East disruption; leadership should evaluate forward fuel contract opportunities before any ceasefire shifts prices lower, and push earned media positioning Breeze as the stable, affordable domestic leisure option during a period of global aviation instability."
-      },
-      {
-        "headline": "Chicago O'Hare Logs 1,318 Delays and 148 Cancellations; Nationwide Disruptions Exceed 4,400 Delays and 257 Cancellations",
-        "source": "Travel and Tour World [unverified] / FAA Daily Air Traffic Advisory (confirmed)",
-        "url": "https://www.travelandtourworld.com/news/article/massive-travel-disruptions-in-the-usa-as-united-american-republic-skywest-envoy-air-and-others-cancel-148-and-delay-1318-flights-at-chicago-disrupting-new-york-toronto-detroit-atlanta-and-more-routes/",
-        "published": "2026-03-31",
-        "date_confidence": "MEDIUM — FAA daily advisory independently confirmed thunderstorms at Chicago (ORD, MDW) on March 31, 2026; Travel and Tour World article appeared in 'today April 2026' search but is an unverified outlet; disruption statistics could not be verified via WebFetch",
-        "summary": "Thunderstorms at Chicago drove 1,318 delays and 148 cancellations at O'Hare alone on March 31, with nationwide totals reaching 4,458 delays and 257 cancellations. United Airlines was the hardest-hit carrier (522 delays, 24 cancellations), followed by Delta (221 delays) and American Airlines (277 delays). LaGuardia, LAX, Denver, and Atlanta also experienced cascading disruptions.",
-        "opportunity": "Breeze avoids Chicago O'Hare entirely; the communications team should develop or activate a rapid-response playbook that leverages hub-meltdown headlines to reinforce Breeze's secondary-airport, point-to-point value proposition — social posts, reactive media quotes, or pre-drafted messaging about the Breeze passenger experience versus hub gridlock."
-      },
-      {
-        "headline": "ITA Airways Officially Joins Star Alliance as 26th Member, Adopts Lufthansa Group Miles & More Program",
-        "source": "Aviation A2Z / LoyaltyLobby / Asian Aviation / Economy Class & Beyond",
-        "url": "https://aviationa2z.com/index.php/2026/03/24/ita-airways-joining-star-alliance/",
-        "secondary_url": "https://asianaviation.com/airline-news-in-brief-01-april-2026/",
+        "headline": "U.S. Carriers May Be Circling JetBlue for a Potential Acquisition",
+        "source": "FlightGlobal",
+        "url": "https://www.flightglobal.com/archive/2026/04/why-us-carriers-may-be-circling-jetblue-for-a-potential-takeover/",
         "published": "2026-04-01",
-        "date_confidence": "HIGH — Multiple independent sources confirm April 1, 2026 as official joining date; URL of Asian Aviation article explicitly contains '01-april-2026'; LoyaltyLobby article URL contains '2026/03/31' confirming advance coverage; event date confirmed across 5+ sources",
-        "summary": "ITA Airways — the Italian flag carrier backed by Lufthansa Group following its January 2025 partial acquisition — officially became Star Alliance's 26th member on April 1, 2026. ITA simultaneously exited its legacy Volare loyalty program and adopted Miles & More, connecting Rome Fiumicino and Milan Linate to 1,150+ Star Alliance destinations and adding 350+ daily flights to the alliance network. The joining ceremony was held at the Piazza di Spagna Lounge at Rome Fiumicino Terminal 3.",
-        "opportunity": "As Breeze's international leisure routes to Cancun, Montego Bay, and Punta Cana mature, leadership should assess whether selective interline or codeshare conversations with Star Alliance members — particularly Lufthansa Group carriers already routing European vacation travelers through U.S. East Coast airports Breeze serves — could unlock inbound demand without a full alliance commitment."
+        "date_confidence": "HIGH — Search result explicitly confirmed 'Published: 1 April 2026 | Author: Howard Hardee'; URL path contains /archive/2026/04/",
+        "summary": "FlightGlobal published an analysis on April 1 examining why United Airlines, Alaska Airlines, and Southwest Airlines may be considering acquiring JetBlue Airways. JetBlue's shares have fallen more than 40% since the start of 2025, the airline has not turned a profit since 2019, and it has tapped advisers to assess sale scenarios — though FlightGlobal notes no deal appears imminent. JetBlue's key assets include 227 owned aircraft, valuable East Coast landing slots, and strong positions in Boston and Fort Lauderdale.",
+        "opportunity": "If JetBlue is acquired or forced into a significant restructuring, its leisure-focused East Coast routes — particularly around Boston, Fort Lauderdale, and JFK — could become accessible to other carriers. Network planning should run a full overlay of JetBlue's current route map against Breeze's existing and planned footprint to identify any markets where accelerated expansion could be warranted."
+      },
+      {
+        "headline": "Delta Air Lines Selects Amazon Leo for In-Flight Wi-Fi on 500 Aircraft Starting 2028",
+        "source": "CNBC / Multiple outlets",
+        "url": "https://dataconomy.com/2026/04/01/delta-picks-amazon-leo-for-in-flight-wi-fi-starting-in-2028/",
+        "secondary_url": "https://www.cnbc.com/2026/03/31/delta-air-lines-amazon-leo-inflight-wi-fi.html",
+        "published": "2026-04-01",
+        "date_confidence": "HIGH — CNBC article URL confirms March 31, 2026 announcement; Dataconomy article URL confirms April 1, 2026 coverage; Bloomberg URL contains 2026-03-31; AeroTime included in April 1 roundup. Included as April 1 story based on confirmed April 1 coverage dates.",
+        "summary": "Delta Air Lines announced a multi-year agreement with Amazon to use its Leo satellite constellation for in-flight Wi-Fi on an initial 500 aircraft beginning in 2028, offering free connectivity to SkyMiles members with download speeds up to 1 Gbps. The deal gives Amazon a significant win over SpaceX's Starlink in the airline Wi-Fi race. Delta is the second U.S. airline to sign with Amazon Leo after JetBlue. United, Southwest, and Alaska Airlines are all aligned with Starlink.",
+        "opportunity": "Every major U.S. carrier has now committed to next-generation satellite Wi-Fi. Breeze leadership should evaluate the airline's current connectivity offering and roadmap to determine whether — and when — an upgrade to high-speed satellite Wi-Fi becomes a competitive necessity for its leisure passenger base."
+      },
+      {
+        "headline": "Alaska Air Group Launches Unified Alaska Hawaiian Mobile App Ahead of April 22 Reservation System Cutover",
+        "source": "AirlineGeeks",
+        "url": "https://airlinegeeks.com/2026/04/01/alaska-launches-combined-alaska-hawaiian-app/",
+        "published": "2026-04-01",
+        "date_confidence": "HIGH — AirlineGeeks article URL confirms /2026/04/01/ date stamp",
+        "summary": "Alaska Air Group launched a unified Alaska Hawaiian mobile app on April 1 consolidating both brands into a single platform for booking, check-in, seat selection, and travel management. The legacy Hawaiian Airlines app remains available until April 21; from April 22, all passengers on both brands will use the new app. On April 22, the full passenger service system (PSS) migration from Amadeus to Sabre will occur, and Hawaiian flights will begin operating under Alaska Airlines (AS) flight numbers.",
+        "opportunity": "The Alaska-Hawaiian integration is accelerating across all customer-facing systems simultaneously. As the combined carrier emerges with a more unified, polished experience, Breeze should assess where the expanded Alaska network overlaps with Breeze's leisure market footprint — particularly in Hawaii-adjacent West Coast markets — and whether competitive responses are warranted."
+      },
+      {
+        "headline": "Alaska Airlines Unveils Lie-Flat Business Class Suites for Boeing 787-9 Long-Haul Service",
+        "source": "AeroTime",
+        "url": "https://www.aerotime.aero/articles/alaska-airlines-unveils-business-class-suites-for-upcoming-long-haul-service",
+        "published": "2026-04-01",
+        "date_confidence": "MEDIUM-HIGH — AeroTime confirmed the article in its April 1, 2026 news roundup; URL does not contain explicit date stamp but story appeared in verified April 1 coverage",
+        "summary": "Alaska Airlines unveiled a new international business class cabin featuring fully lie-flat suites with privacy doors, direct aisle access, 18-inch screens, and wireless charging, designed for the carrier's Boeing 787-9 aircraft. The product will debut on new long-haul routes from Seattle to Europe and Asia, announced as part of Alaska's strategic pivot following the Hawaiian Airlines acquisition. Alaska currently has 12+ long-haul international routes planned from Seattle-Tacoma.",
+        "opportunity": "Alaska is transitioning from a West Coast regional carrier into a full-service international airline with a premium product. Post-Hawaiian-acquisition, the combined carrier is building capabilities that place it in a different competitive tier. Breeze leadership should track where Alaska's growing leisure and premium-leisure network intersects with Breeze's secondary-airport strategy, particularly in Pacific Northwest and West Coast origination markets."
       }
     ]
   }
