@@ -1,72 +1,63 @@
 {
-  "date": "2026-04-03",
-  "generated_at": "2026-04-03T06:00:00.000Z",
-  "validation_warning": "WebFetch returned HTTP 403 for all attempted source URLs (40+ attempts across all major news domains). No article body content could be loaded for full verification. Story dates and content confirmed via: explicit date text in search result metadata, URL date patterns (e.g. /2026/04/02/, /2026/04/03/), and cross-referencing multiple independent search results per story. Stories were excluded if their original publication date could not be confirmed within the 24-hour window (April 2–3, 2026) by at least one of these methods. Alaska-Hawaiian app story excluded from today's briefing as it was covered in the April 2 briefing. JetBlue merger excluded — original story broke March 25 (Semafor), outside the 24-hour window.",
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T09:00:00.000Z",
+  "validation_warning": "WebFetch returned HTTP 403 for all attempted source URLs (35+ attempts across major news domains). No article body content could be loaded for full verification. Story dates and content confirmed via: explicit date text in search result metadata, URL date patterns (e.g. /2026/04/03/, /2026/04/04/), FAA press release search snippet confirming 'approximately 20 hours ago', and cross-referencing multiple independent search results per story. Stories were excluded if original publication date could not be confirmed within the 24-hour window (April 3–4, 2026) by at least one of these methods. United/JetBlue bag fees story (April 2) included as borderline 48-hour item due to direct competitive relevance. Tampa/Breeze Costa Rica announcement excluded — original date confirmed March 17, 2026 via GlobeNewsWire URL. JetBlue merger excluded — original story broke March 25 (Semafor). United capacity cuts excluded — original story broke March 20–21 (CNBC). Alaska-Hawaiian combined app excluded — launched April 1, outside 24-hour window.",
   "breeze": {
-    "narrative": "No new Breeze coverage confirmed in the last 24 hours. Breeze is out of the news cycle on April 3, 2026 — no crisis flags, no negative press, no competitor attacks on the brand. The next scheduled Breeze news catalyst is the April 8 launch of new Las Vegas routes from Lincoln, Nebraska (LNK), announced in late 2025. The most recent confirmed Breeze media coverage dates to mid-March 2026 West Coast expansion stories.",
+    "narrative": "No new Breeze coverage confirmed in the last 24 hours. Breeze remains clear of the news cycle on April 4, 2026 — no crisis flags, no negative press, no competitor attacks on the brand. The airline's spring expansion continues quietly: new West Coast routes launched in March are in operation, upcoming international service from Tampa to Costa Rica and the Dominican Republic remains a positive story in local markets from its March 17 announcement, and the new Raleigh-Durham crew base opened in Q1 2026. The Easter holiday weekend news cycle may be suppressing new coverage; worth monitoring local market outlets through Sunday for any travel-season pickup stories featuring Breeze.",
     "stories": []
   },
   "industry": {
     "stories": [
       {
-        "headline": "Iran War Drives Jet Fuel to $195/Barrel; United Cuts 5% of Q2-Q3 Flights",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/videos/2026-04-02/soaring-jet-fuel-prices-disrupt-global-aviation-video",
-        "published": "2026-04-02",
-        "date_confidence": "HIGH — Bloomberg video URL contains explicit date stamp /2026-04-02/; cross-confirmed by supporting coverage from Business Standard (URL: /126040100531/), Euronews (March 30), and Fortune (March 24) tracking the same fuel price escalation",
-        "summary": "Bloomberg reported on April 2 that the U.S.-Iran war has driven global jet fuel to approximately $195 per barrel, more than double the pre-conflict level of $85-90. The Strait of Hormuz closure has collapsed tanker shipping by over 70 percent. United Airlines has announced a 5 percent cut to Q2 and Q3 flights. American Airlines CEO Robert Isom warned of a $400 million Q1 fuel cost hit. Jet fuel costs have risen 88 percent in North America. IATA projects ticket prices could rise 9 percent industry-wide.",
-        "opportunity": "Breeze's all-domestic route network shields the carrier from Middle East airspace closures, but the same jet fuel cost shock hitting international carriers is affecting every domestic U.S. operator. Leadership should evaluate whether current leisure fare structures provide adequate margin at fuel near $195/barrel, and whether a targeted fuel surcharge — or temporary route rationalization — is warranted before the shock further compresses Q2 margins.",
-        "paywalled": false
-      },
-      {
-        "headline": "Kuwait International Airport Remains Closed After Iranian Drone Strikes Hit Fuel Infrastructure",
-        "source": "International Business Times (Australia)",
-        "url": "https://www.ibtimes.com.au/kuwait-international-airport-not-open-today-april-3-2026-remains-closed-after-drone-strikes-damage-1865277",
+        "headline": "FAA Proposes $304,272 Civil Penalty Against Southwest Airlines for Drug and Alcohol Testing Violations",
+        "source": "Federal Aviation Administration (official press release)",
+        "url": "https://www.faa.gov/newsroom/faa-proposes-304272-fines-against-southwest-airlines-alleged-drug-and-alcohol-testing",
         "published": "2026-04-03",
-        "date_confidence": "HIGH — Article headline explicitly states 'April 3 2026'; corroborated by AGBI (agbi.com/aviation/2026/04/) reporting on Kuwait fuel tank drone strike and IBTimes April 1 article confirming airport closure since late March",
-        "summary": "Kuwait International Airport remained closed on April 3, 2026, following a series of Iranian drone strikes that damaged radar systems, fuel storage tanks, and other infrastructure. Kuwait Airways is operating contingency flights from airports in Bahrain and Saudi Arabia. No reopening timeline has been announced. The strikes are attributed to Iran and Iran-backed factions as part of the ongoing U.S.-Iran conflict. 58 airlines have suspended all Middle East flights; planned Middle East flights have been cut 40 percent from pre-conflict levels.",
-        "opportunity": "Breeze has zero direct operational exposure to Middle East airspace — but the Strait of Hormuz blockade driving this regional closure is the same supply-side mechanism compressing global jet fuel availability and pricing. This story serves as a communications data point: Breeze's domestic focus is a structural advantage that could be highlighted in any investor or partner communications about resilience to geopolitical aviation risk.",
+        "date_confidence": "HIGH — FAA.gov press release search result confirmed 'approximately 20 hours ago' in metadata; corroborated by FlightAware squawk post and multiple aviation news outlet pickups all referencing same April 3 press release",
+        "summary": "The FAA proposed a $304,272 civil penalty against Southwest Airlines for failing to conduct required follow-up drug and alcohol testing for 11 safety-sensitive employees — including pilots, flight attendants, and aircraft mechanics — who had previously tested positive for substances including marijuana, cocaine, and amphetamines. The employees performed safety-sensitive functions during periods when Southwest failed to monitor them, spanning August 2021 through July 2024.",
+        "opportunity": "Breeze safety and compliance leadership should use this as a prompt to audit and confirm that all required follow-up drug and alcohol testing protocols are current and documented, given the FAA's demonstrated willingness to enforce compliance violations spanning multiple years.",
         "paywalled": false
       },
       {
-        "headline": "Senate Passes DHS Funding Bill; Trump Orders TSA Pay Restored — But House Has Not Acted",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/02/tsa-dhs-shutdown-senate-house.html",
+        "headline": "Trump Administration's FY2027 Budget Proposes Privatizing TSA Airport Screening Operations",
+        "source": "Skift / U.S. News & World Report / CNN",
+        "url": "https://skift.com/2026/04/03/trump-proposes-tsa-privatization-following-long-airport-lines/",
+        "secondary_url": "https://edition.cnn.com/2026/04/04/us/tsa-private-airport-security-screening",
+        "published": "2026-04-03",
+        "date_confidence": "HIGH — Confirmed by Skift URL (/2026/04/03/), U.S. News URL (articles/2026-04-03/), CNN URL (/2026/04/04/), KRDO (/2026/04/04/), and Aviation Week; original budget document released April 3, 2026",
+        "summary": "The Trump administration's FY2027 budget proposes beginning the privatization of TSA airport security screening operations, cutting TSA's budget by $52 million and requiring small airports to enroll in the Screening Partnership Program — under which TSA pays for private screeners rather than deploying federal officers. The proposal comes after weeks of long security lines at major U.S. airports caused by unpaid TSA workers and elevated absenteeism during the Easter holiday travel surge. The American Federation of Government Employees, which represents approximately 47,000 TSA officers, has pledged to fight the proposal.",
+        "opportunity": "Several of Breeze's secondary focus airports qualify as small airports under the privatization program criteria. Operations and communications leadership should identify which Breeze focus cities are in scope and develop a proactive passenger communications framework if security line performance at those airports deteriorates during the transition.",
+        "paywalled": false
+      },
+      {
+        "headline": "White House FY2027 Budget Proposes Cutting Essential Air Service Funding by $372 Million",
+        "source": "AeroTime / FlightGlobal",
+        "url": "https://www.aerotime.aero/articles/trump-budget-essential-air-service-cut-372m",
+        "secondary_url": "https://www.flightglobal.com/united-states/2026/04/trump-seeks-big-cuts-to-regional-airline-subsidy-programme-industry-braces-for-fight/",
+        "published": "2026-04-03",
+        "date_confidence": "HIGH — White House budget confirmed released April 3, 2026; FlightGlobal URL contains /2026/04/ date pattern; AeroTime article confirmed same day based on search metadata and content cross-reference",
+        "summary": "The White House FY2027 budget proposes slashing Essential Air Service funding from over $513 million in the current fiscal year down to $142 million in FY2027 — a reduction of approximately $372 million. The administration describes EAS-funded routes as 'half-empty flights to nearby airports' and proposes reforms to eligibility rules and subsidy rates. Congress rejected a similar EAS cut in the FY2026 budget cycle. The proposal does not specify which markets would lose subsidies or by how much.",
+        "opportunity": "Network planning should build a map of current EAS-subsidized routes that overlap with or are adjacent to Breeze's existing and planned route network. If the cuts move forward in Congress, incumbent regional carriers receiving EAS subsidies may exit those communities, and Breeze's nonstop leisure model may be well-positioned to fill the void in select markets.",
+        "paywalled": false
+      },
+      {
+        "headline": "United Airlines Launches Tiered Fare Structure for Polaris and Premium Plus Cabins",
+        "source": "Skift",
+        "url": "https://skift.com/2026/04/03/united-airlines-launches-tiered-fares-for-premium-seats/",
+        "published": "2026-04-03",
+        "date_confidence": "HIGH — Confirmed by Skift URL date pattern /2026/04/03/",
+        "summary": "United Airlines rolled out a new tiered fare structure for its Polaris business class and Premium Plus cabins on long-haul international, transcontinental, and Hawaii routes. The new structure adds a lower-priced base tier with reduced on-board amenities, as United continues to segment the premium travel experience into paid layers similar to the unbundling already common in economy cabins.",
+        "opportunity": "United's continued disaggregation of the travel experience into opaque tiers reinforces Breeze's brand positioning as a straightforward, no-surprises airline. Marketing should consider a timely consumer message contrasting Breeze's transparent pricing with United's expanding fee-for-amenity model.",
+        "paywalled": false
+      },
+      {
+        "headline": "United Airlines and JetBlue Simultaneously Raise Checked Bag Fees as Fuel Costs Soar",
+        "source": "Skift",
+        "url": "https://skift.com/2026/04/02/united-jetblue-raise-bag-fees-as-fuel-prices-soar/",
         "published": "2026-04-02",
-        "date_confidence": "HIGH — CNBC article URL contains explicit date stamp /2026/04/02/; corroborated by CNN (cnn.com/2026/04/02/politics/dhs-senate-house-bill) same date, and CBS News live updates confirming same-day Senate vote and Trump executive order",
-        "summary": "The Senate passed a DHS funding bill on April 2 and President Trump signed an executive order directing immediate TSA back-pay and forward pay, ending a 48-day pay freeze. However, the House has not acted on the Senate bill, meaning the partial DHS shutdown remains technically in effect heading into Easter weekend. Over 500 TSA agents have quit since the shutdown began February 14; absenteeism at some checkpoints has exceeded 40 percent. ICE officers have been deployed at multiple airports to assist understaffed TSA checkpoints. Wait times at some airports exceeded 4.5 hours during peak periods.",
-        "opportunity": "This is a live passenger-experience risk for every Breeze market during the highest-volume weekend of the spring travel season. The Breeze communications team should set up monitoring for social media mentions combining Breeze airport codes with terms like 'line,' 'delay,' and 'security' — TSA checkpoint frustrations have historically been misattributed to airlines by travelers venting online, and proactive response protocols should be activated now.",
-        "paywalled": false
-      },
-      {
-        "headline": "Hartsfield-Jackson on Track to Break TSA Screening Record During Easter Weekend",
-        "source": "Atlanta News First",
-        "url": "https://www.atlantanewsfirst.com/2026/04/01/hartsfield-jackson-track-break-tsa-screening-record-spring-travel-peaks/",
-        "published": "2026-04-01",
-        "date_confidence": "HIGH — URL contains explicit date stamp /2026/04/01/; corroborated by WRDW CBS affiliate (wrdw.com/2026/04/01/) with matching story content",
-        "summary": "Atlanta's Hartsfield-Jackson International Airport is forecast to screen approximately 115,000 passengers on April 4, 2026 — surpassing the previous single-day TSA record of 111,000 from May 2024. Airlines for America projects a record 171 million total passengers will fly in March and April 2026 combined, making this the strongest spring travel period on record. The Easter holiday is driving the surge, with daily screening volumes regularly exceeding 2.8 million travelers nationwide.",
-        "opportunity": "Record spring travel demand is the single best revenue environment Breeze has operated in. Revenue management should pull real-time load factor data across all Breeze markets for the April 3-6 Easter window to confirm whether Breeze is capturing its share of the surge — and if any markets show remaining seat availability, there may still be time for last-minute fare promotions to fill capacity.",
-        "paywalled": false
-      },
-      {
-        "headline": "Fort Worth City Council to Vote April 28 on DFW Airport's $3B Bond Request for Terminal Expansion",
-        "source": "Community Impact",
-        "url": "https://communityimpact.com/dallas-fort-worth/keller-roanoke-northeast-fort-worth/government/2026/04/02/fort-worth-city-council-to-vote-on-dfw-airports-request-to-borrow-3b-for-construction-projects/",
-        "published": "2026-04-02",
-        "date_confidence": "HIGH — URL contains explicit date stamp /2026/04/02/; article confirmed by DFW Airport's own capital program disclosures",
-        "summary": "The Fort Worth City Council will vote April 28 on Dallas Fort Worth International Airport's request to authorize up to $3 billion in bond issuances in 2026, as the first phase of an $11.3 billion capital improvement program running through fiscal year 2029-30. Major projects include construction of a new Terminal F, expansion at Terminal C, and redevelopment of International Parkway. DFW Airport CFO Brian Butler presented the plan at a March 31 work session. Both Fort Worth and Dallas city councils must approve the financing.",
-        "opportunity": "American Airlines' $11 billion long-term commitment to expanding DFW capacity signals deep confidence in Texas air travel demand growth. Breeze's network planning team should assess this in the context of Breeze's recently launched San Antonio routes — the question is whether a dominant, growing DFW pulls Texas leisure traffic toward AA connections (competitive pressure) or whether increased total Texas aviation traffic creates enough spillover demand for Breeze's nonstop leisure routes to benefit.",
-        "paywalled": false
-      },
-      {
-        "headline": "One Year After Liberation Day: NPR and Axios Assess the Economic Legacy of Trump's Tariffs",
-        "source": "NPR / Axios",
-        "url": "https://www.npr.org/2026/04/02/nx-s1-5766424/trump-tariffs-inflation-economy",
-        "secondary_url": "https://www.axios.com/2026/04/02/trump-trade-tariffs-liberation-day",
-        "published": "2026-04-02",
-        "date_confidence": "HIGH — Both NPR and Axios URLs contain explicit date stamp /2026/04/02/; multiple other outlets (Marketplace.org, Council on Foreign Relations, Breaking Defense) published anniversary analyses the same day",
-        "summary": "On the one-year anniversary of President Trump's April 2, 2025 Liberation Day tariff announcement, NPR, Axios, and multiple outlets published economic retrospectives. The tariffs were struck down by the Supreme Court in February 2026 after the Court ruled Trump's use of IEEPA emergency powers was not legal. Economic analyses found the tariffs cost U.S. consumers and businesses an estimated $166 billion in collection, contributed to higher consumer prices, and coincided with a decline of 89,000 manufacturing jobs between April 2025 and February 2026. Global supply chains remain partially disrupted.",
-        "opportunity": "The Supreme Court's February ruling resolved a major uncertainty for aviation — specifically around tariffs on aircraft parts, aluminum, and aerospace components. For Breeze's fleet expansion planning, the removal of tariff risk is a modest positive for delivery cost stability. However, the documented economic softness from the past year — consumer price inflation, reduced purchasing power — is a meaningful signal to incorporate into leisure travel demand forecasts for the second half of 2026.",
+        "date_confidence": "HIGH — Confirmed by Skift URL date pattern /2026/04/02/; note this story is approximately 48 hours old as of briefing date, included due to direct competitive relevance to Breeze's no-fee positioning",
+        "summary": "United Airlines and JetBlue both raised their checked bag fees on April 2nd, citing surging jet fuel prices driven by the ongoing Iran conflict. The fee increases apply to new ticket purchases going forward. Both carriers compete directly with Breeze on a significant number of routes.",
+        "opportunity": "Simultaneous fee increases from two of Breeze's most direct competitors create a short but clear window for Breeze communications and social media to amplify the no-fees value proposition — particularly in markets where Breeze, United, and JetBlue offer overlapping service.",
         "paywalled": false
       }
     ]
