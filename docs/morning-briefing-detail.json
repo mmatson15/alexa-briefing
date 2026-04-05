@@ -1,63 +1,42 @@
 {
-  "date": "2026-04-04",
-  "generated_at": "2026-04-04T09:00:00.000Z",
-  "validation_warning": "WebFetch returned HTTP 403 for all attempted source URLs (35+ attempts across major news domains). No article body content could be loaded for full verification. Story dates and content confirmed via: explicit date text in search result metadata, URL date patterns (e.g. /2026/04/03/, /2026/04/04/), FAA press release search snippet confirming 'approximately 20 hours ago', and cross-referencing multiple independent search results per story. Stories were excluded if original publication date could not be confirmed within the 24-hour window (April 3–4, 2026) by at least one of these methods. United/JetBlue bag fees story (April 2) included as borderline 48-hour item due to direct competitive relevance. Tampa/Breeze Costa Rica announcement excluded — original date confirmed March 17, 2026 via GlobeNewsWire URL. JetBlue merger excluded — original story broke March 25 (Semafor). United capacity cuts excluded — original story broke March 20–21 (CNBC). Alaska-Hawaiian combined app excluded — launched April 1, outside 24-hour window.",
+  "date": "2026-04-05",
+  "generated_at": "2026-04-05T09:00:00.000Z",
+  "validation_notes": "WebFetch returned HTTP 403 for virtually all attempted article URLs. Story inclusion was determined using: explicit date text in search result metadata, URL date patterns (e.g. /2026/04/04/, /2026/04/05/), cross-referencing multiple independent search results per story, and cross-checking against yesterday's briefing (April 4) to exclude already-covered stories. Stories were excluded if the ORIGINAL publication date fell outside the April 4–5, 2026 window. Excluded: FAA-Southwest penalty (April 3 original — covered in yesterday's briefing), TSA privatization (April 3 — covered yesterday), EAS cuts (April 3 — covered yesterday), United Polaris tiered fares (April 3 original — covered yesterday), United/JetBlue bag fees (April 2 — covered yesterday), JetBlue merger exploration (March 25 Semafor original), United 5% capacity cut (March 20–25 original), Delta Amazon Leo wifi deal (March 31), IATA February demand data (March 31), WestJet US route cuts (February 9). Three industry stories confirmed within the April 4–5 window from Aviation A2Z (URL date patterns confirmed /2026/04/04/) and multiple Easter disruption sources (April 4).",
   "breeze": {
-    "narrative": "No new Breeze coverage confirmed in the last 24 hours. Breeze remains clear of the news cycle on April 4, 2026 — no crisis flags, no negative press, no competitor attacks on the brand. The airline's spring expansion continues quietly: new West Coast routes launched in March are in operation, upcoming international service from Tampa to Costa Rica and the Dominican Republic remains a positive story in local markets from its March 17 announcement, and the new Raleigh-Durham crew base opened in Q1 2026. The Easter holiday weekend news cycle may be suppressing new coverage; worth monitoring local market outlets through Sunday for any travel-season pickup stories featuring Breeze.",
+    "narrative": "No new Breeze coverage confirmed in the last 24 hours. Breeze remains clear of the news cycle over the Easter holiday weekend — no crisis flags, no negative press, no competitor attacks on the brand. The spring West Coast expansion (Las Vegas, Burbank, Lincoln, and Humboldt County routes launched in March) continues operating, and the upcoming Tampa international service to Costa Rica and the Dominican Republic remains a positive backdrop story in local markets. Worth monitoring local and trade outlets through Sunday evening for any Easter travel-season pickup stories featuring Breeze.",
     "stories": []
   },
   "industry": {
     "stories": [
       {
-        "headline": "FAA Proposes $304,272 Civil Penalty Against Southwest Airlines for Drug and Alcohol Testing Violations",
-        "source": "Federal Aviation Administration (official press release)",
-        "url": "https://www.faa.gov/newsroom/faa-proposes-304272-fines-against-southwest-airlines-alleged-drug-and-alcohol-testing",
-        "published": "2026-04-03",
-        "date_confidence": "HIGH — FAA.gov press release search result confirmed 'approximately 20 hours ago' in metadata; corroborated by FlightAware squawk post and multiple aviation news outlet pickups all referencing same April 3 press release",
-        "summary": "The FAA proposed a $304,272 civil penalty against Southwest Airlines for failing to conduct required follow-up drug and alcohol testing for 11 safety-sensitive employees — including pilots, flight attendants, and aircraft mechanics — who had previously tested positive for substances including marijuana, cocaine, and amphetamines. The employees performed safety-sensitive functions during periods when Southwest failed to monitor them, spanning August 2021 through July 2024.",
-        "opportunity": "Breeze safety and compliance leadership should use this as a prompt to audit and confirm that all required follow-up drug and alcohol testing protocols are current and documented, given the FAA's demonstrated willingness to enforce compliance violations spanning multiple years.",
+        "headline": "Easter Saturday Triggers One of Worst U.S. Aviation Disruption Days of 2026",
+        "source": "TravelTourister / Travel and Tour World / multiple aviation trackers",
+        "url": "https://www.traveltourister.com/news/chicago-ohare-airport-chaos-april-4-2026/",
+        "secondary_url": "https://www.travelandtourworld.com/news/article/easter-travel-chaos-2026-miami-leads-175-flight-meltdown-as-u-s-airports-face-nationwide-delays-and-cancellations/",
+        "published": "2026-04-04",
+        "date_confidence": "HIGH — Multiple sources independently confirmed April 4, 2026 date; airport-specific disruption articles contain explicit date references ('Chicago O'Hare Airport Chaos April 4, 2026', 'Miami Airport Chaos Easter Saturday April 4, 2026'); national totals of ~339 cancellations and ~3,577 delays corroborated across independent reporting",
+        "summary": "Easter Saturday produced nearly 340 cancellations and more than 3,500 delays at major U.S. hub airports on April 4, 2026. Chicago O'Hare led with over 314 disruptions, followed by Miami (175), Dallas-Fort Worth (120+), and Newark Liberty (130). The cascade was driven by a severe Midwest thunderstorm system compounded by persistent TSA staffing gaps — a legacy of the government-shutdown-driven officer resignations — that left fewer open security lanes and pushed passengers further behind schedule.",
+        "opportunity": "Breeze's point-to-point model through secondary markets was largely untouched by the hub meltdown. Communications should consider a timely social or earned-media push reinforcing why Breeze travelers avoid hub-driven chaos — the Easter disruption story is still in the news cycle and the contrast is stark.",
         "paywalled": false
       },
       {
-        "headline": "Trump Administration's FY2027 Budget Proposes Privatizing TSA Airport Screening Operations",
-        "source": "Skift / U.S. News & World Report / CNN",
-        "url": "https://skift.com/2026/04/03/trump-proposes-tsa-privatization-following-long-airport-lines/",
-        "secondary_url": "https://edition.cnn.com/2026/04/04/us/tsa-private-airport-security-screening",
-        "published": "2026-04-03",
-        "date_confidence": "HIGH — Confirmed by Skift URL (/2026/04/03/), U.S. News URL (articles/2026-04-03/), CNN URL (/2026/04/04/), KRDO (/2026/04/04/), and Aviation Week; original budget document released April 3, 2026",
-        "summary": "The Trump administration's FY2027 budget proposes beginning the privatization of TSA airport security screening operations, cutting TSA's budget by $52 million and requiring small airports to enroll in the Screening Partnership Program — under which TSA pays for private screeners rather than deploying federal officers. The proposal comes after weeks of long security lines at major U.S. airports caused by unpaid TSA workers and elevated absenteeism during the Easter holiday travel surge. The American Federation of Government Employees, which represents approximately 47,000 TSA officers, has pledged to fight the proposal.",
-        "opportunity": "Several of Breeze's secondary focus airports qualify as small airports under the privatization program criteria. Operations and communications leadership should identify which Breeze focus cities are in scope and develop a proactive passenger communications framework if security line performance at those airports deteriorates during the transition.",
+        "headline": "Delta's Premium Crown Is Slipping as United Airlines Surges in Competitive Positioning",
+        "source": "Aviation A2Z",
+        "url": "https://aviationa2z.com/index.php/2026/04/04/delta-crown-is-slipping-and-united-is-ready-to-catch-it/",
+        "published": "2026-04-04",
+        "date_confidence": "HIGH — URL date pattern /2026/04/04/ confirmed; search result metadata consistent with April 4 publication",
+        "summary": "Aviation A2Z published an analysis on April 4 documenting structural cracks in Delta's two-decade run as America's most admired and operationally reliable airline. Analysts cited a widening product quality gap, leadership strategy questions, and United Airlines' deliberate investment in transatlantic routes and premium cabin improvements as evidence the competitive gap between the two carriers is closing. United is also capitalizing on Delta's uncertainty by expanding aggressively in markets previously considered Delta territory.",
+        "opportunity": "Network planning should establish a regular tracking cadence for Delta's upcoming capacity and schedule announcements. Any Delta pullback from leisure, mid-size, or secondary city markets to shore up its premium transatlantic positioning would be a direct opportunity signal for Breeze to move quickly in those cities.",
         "paywalled": false
       },
       {
-        "headline": "White House FY2027 Budget Proposes Cutting Essential Air Service Funding by $372 Million",
-        "source": "AeroTime / FlightGlobal",
-        "url": "https://www.aerotime.aero/articles/trump-budget-essential-air-service-cut-372m",
-        "secondary_url": "https://www.flightglobal.com/united-states/2026/04/trump-seeks-big-cuts-to-regional-airline-subsidy-programme-industry-braces-for-fight/",
-        "published": "2026-04-03",
-        "date_confidence": "HIGH — White House budget confirmed released April 3, 2026; FlightGlobal URL contains /2026/04/ date pattern; AeroTime article confirmed same day based on search metadata and content cross-reference",
-        "summary": "The White House FY2027 budget proposes slashing Essential Air Service funding from over $513 million in the current fiscal year down to $142 million in FY2027 — a reduction of approximately $372 million. The administration describes EAS-funded routes as 'half-empty flights to nearby airports' and proposes reforms to eligibility rules and subsidy rates. Congress rejected a similar EAS cut in the FY2026 budget cycle. The proposal does not specify which markets would lose subsidies or by how much.",
-        "opportunity": "Network planning should build a map of current EAS-subsidized routes that overlap with or are adjacent to Breeze's existing and planned route network. If the cuts move forward in Congress, incumbent regional carriers receiving EAS subsidies may exit those communities, and Breeze's nonstop leisure model may be well-positioned to fill the void in select markets.",
-        "paywalled": false
-      },
-      {
-        "headline": "United Airlines Launches Tiered Fare Structure for Polaris and Premium Plus Cabins",
-        "source": "Skift",
-        "url": "https://skift.com/2026/04/03/united-airlines-launches-tiered-fares-for-premium-seats/",
-        "published": "2026-04-03",
-        "date_confidence": "HIGH — Confirmed by Skift URL date pattern /2026/04/03/",
-        "summary": "United Airlines rolled out a new tiered fare structure for its Polaris business class and Premium Plus cabins on long-haul international, transcontinental, and Hawaii routes. The new structure adds a lower-priced base tier with reduced on-board amenities, as United continues to segment the premium travel experience into paid layers similar to the unbundling already common in economy cabins.",
-        "opportunity": "United's continued disaggregation of the travel experience into opaque tiers reinforces Breeze's brand positioning as a straightforward, no-surprises airline. Marketing should consider a timely consumer message contrasting Breeze's transparent pricing with United's expanding fee-for-amenity model.",
-        "paywalled": false
-      },
-      {
-        "headline": "United Airlines and JetBlue Simultaneously Raise Checked Bag Fees as Fuel Costs Soar",
-        "source": "Skift",
-        "url": "https://skift.com/2026/04/02/united-jetblue-raise-bag-fees-as-fuel-prices-soar/",
-        "published": "2026-04-02",
-        "date_confidence": "HIGH — Confirmed by Skift URL date pattern /2026/04/02/; note this story is approximately 48 hours old as of briefing date, included due to direct competitive relevance to Breeze's no-fee positioning",
-        "summary": "United Airlines and JetBlue both raised their checked bag fees on April 2nd, citing surging jet fuel prices driven by the ongoing Iran conflict. The fee increases apply to new ticket purchases going forward. Both carriers compete directly with Breeze on a significant number of routes.",
-        "opportunity": "Simultaneous fee increases from two of Breeze's most direct competitors create a short but clear window for Breeze communications and social media to amplify the no-fees value proposition — particularly in markets where Breeze, United, and JetBlue offer overlapping service.",
+        "headline": "United Airlines Flight Attendant Union Votes to Advance New Contract to Ratification",
+        "source": "Aviation A2Z",
+        "url": "https://aviationa2z.com/index.php/2026/04/04/united-attendants-salary-2026-after-new-contract/",
+        "published": "2026-04-04",
+        "date_confidence": "HIGH — URL date pattern /2026/04/04/ confirmed; cross-referenced with separate search results confirming ratification vote timeline (April 23 – May 12)",
+        "summary": "United Airlines' flight attendant union leadership unanimously voted on April 4 to advance a new labor contract to the full membership for ratification, with voting scheduled from April 23 through May 12. Under the proposed deal, first-year flight attendants would start at $36.92 per hour on the date of signing, rising to $42.06 by year four. Senior flight attendants with 13 or more years of service would start at $84.78 and climb to $96.58 by the contract's end. If ratified, new pay rates would take effect in June 2026.",
+        "opportunity": "As United's labor costs accelerate alongside the bag fee hikes and fuel surcharges implemented earlier this month, Breeze's non-union operating structure and lean cost model represent a meaningful structural cost advantage. Leadership should actively reference this advantage in investor presentations, analyst briefings, and any public financial commentary going forward.",
         "paywalled": false
       }
     ]
