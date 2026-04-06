@@ -1,42 +1,51 @@
 {
-  "date": "2026-04-05",
-  "generated_at": "2026-04-05T09:00:00.000Z",
-  "validation_notes": "WebFetch returned HTTP 403 for virtually all attempted article URLs. Story inclusion was determined using: explicit date text in search result metadata, URL date patterns (e.g. /2026/04/04/, /2026/04/05/), cross-referencing multiple independent search results per story, and cross-checking against yesterday's briefing (April 4) to exclude already-covered stories. Stories were excluded if the ORIGINAL publication date fell outside the April 4–5, 2026 window. Excluded: FAA-Southwest penalty (April 3 original — covered in yesterday's briefing), TSA privatization (April 3 — covered yesterday), EAS cuts (April 3 — covered yesterday), United Polaris tiered fares (April 3 original — covered yesterday), United/JetBlue bag fees (April 2 — covered yesterday), JetBlue merger exploration (March 25 Semafor original), United 5% capacity cut (March 20–25 original), Delta Amazon Leo wifi deal (March 31), IATA February demand data (March 31), WestJet US route cuts (February 9). Three industry stories confirmed within the April 4–5 window from Aviation A2Z (URL date patterns confirmed /2026/04/04/) and multiple Easter disruption sources (April 4).",
+  "date": "2026-04-06",
+  "generated_at": "2026-04-06T14:00:00.000Z",
+  "validation_notes": "Monday briefing covers Friday April 3, 12:00 PM through Sunday April 5, 11:59 PM. WebFetch returned HTTP 403 for virtually all attempted article URLs. Story inclusion was determined using: explicit date text in search result metadata, URL date patterns (e.g. /2026/04/03/, /2026/04/04/, /2026-04-04/), and cross-referencing multiple independent search results per story. Stories excluded for being already covered in the Sunday April 5 briefing: Easter Saturday hub disruptions (traveltourister.com April 4), Delta/United competition analysis (aviationa2z April 4), United FA union ratification vote (aviationa2z April 4). Stories excluded as stale (original publication outside window): United 5% capacity cut (March 20 original — Detroit News URL /2026/03/20/ confirmed), JetBlue merger exploration (March 25 Semafor original), Avelo base closures (January 6 original), Allegiant-Sun Country merger (January 11-12 original), FAA radar contracts (January 2026 original), JetBlue FLL expansion (January 5 original), American Eastern Caribbean (January 2026 original). Three industry stories confirmed within the Friday-Sunday window from Bloomberg (URL /2026-04-04/), BNN Bloomberg (URL /2026/04/05/), Foreign Policy (URL /2026/04/03/), Greek City Times (URL /2026/04/03/), Daily News Egypt (URL /2026/04/04/), and thetraveler.org (Easter Sunday context). No Breeze-specific news confirmed from the April 3-5 window; Lincoln Airport Breeze route launch (April 8 operational start) was announced in November 2025 and is not new news.",
   "breeze": {
-    "narrative": "No new Breeze coverage confirmed in the last 24 hours. Breeze remains clear of the news cycle over the Easter holiday weekend — no crisis flags, no negative press, no competitor attacks on the brand. The spring West Coast expansion (Las Vegas, Burbank, Lincoln, and Humboldt County routes launched in March) continues operating, and the upcoming Tampa international service to Costa Rica and the Dominican Republic remains a positive backdrop story in local markets. Worth monitoring local and trade outlets through Sunday evening for any Easter travel-season pickup stories featuring Breeze.",
+    "narrative": "No new Breeze coverage over the weekend. The airline enters Easter week with a clean news cycle while the broader industry weathered one of the most operationally turbulent holiday periods in recent memory.",
     "stories": []
   },
   "industry": {
     "stories": [
       {
-        "headline": "Easter Saturday Triggers One of Worst U.S. Aviation Disruption Days of 2026",
-        "source": "TravelTourister / Travel and Tour World / multiple aviation trackers",
-        "url": "https://www.traveltourister.com/news/chicago-ohare-airport-chaos-april-4-2026/",
-        "secondary_url": "https://www.travelandtourworld.com/news/article/easter-travel-chaos-2026-miami-leads-175-flight-meltdown-as-u-s-airports-face-nationwide-delays-and-cancellations/",
+        "headline": "The Iran War Is Reshaping Global Aviation as Jet Fuel Tops $197 Per Barrel",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-04/the-iran-war-is-reshaping-global-aviation",
+        "secondary_urls": [
+          "https://foreignpolicy.com/2026/04/03/jet-fuel-prices-energy-crisis-iran-war-oil-trump/",
+          "https://www.bnnbloomberg.ca/business/politics/2026/04/05/rising-fuel-costs-from-iran-war-could-mean-higher-fares-fewer-flights-for-canadians-expert/"
+        ],
         "published": "2026-04-04",
-        "date_confidence": "HIGH — Multiple sources independently confirmed April 4, 2026 date; airport-specific disruption articles contain explicit date references ('Chicago O'Hare Airport Chaos April 4, 2026', 'Miami Airport Chaos Easter Saturday April 4, 2026'); national totals of ~339 cancellations and ~3,577 delays corroborated across independent reporting",
-        "summary": "Easter Saturday produced nearly 340 cancellations and more than 3,500 delays at major U.S. hub airports on April 4, 2026. Chicago O'Hare led with over 314 disruptions, followed by Miami (175), Dallas-Fort Worth (120+), and Newark Liberty (130). The cascade was driven by a severe Midwest thunderstorm system compounded by persistent TSA staffing gaps — a legacy of the government-shutdown-driven officer resignations — that left fewer open security lanes and pushed passengers further behind schedule.",
-        "opportunity": "Breeze's point-to-point model through secondary markets was largely untouched by the hub meltdown. Communications should consider a timely social or earned-media push reinforcing why Breeze travelers avoid hub-driven chaos — the Easter disruption story is still in the news cycle and the contrast is stark.",
+        "date_confidence": "HIGH — Bloomberg URL date pattern /2026-04-04/ confirmed; Foreign Policy URL /2026/04/03/ confirmed; BNN Bloomberg URL /2026/04/05/ confirmed; fuel price data ($197/barrel, doubled from February's ~$96/barrel) corroborated across multiple independent search result snippets",
+        "summary": "Jet fuel surged to nearly $197 per barrel as the Iran war's closure of the Strait of Hormuz choked global oil supply, driving global flight cancellation rates toward 7 percent of all scheduled service last week and pushing U.S. domestic fares sharply higher. Western airlines including Lufthansa, British Airways, and Air France are redeploying capacity to North America and Asia to fill the void left by grounded Middle Eastern carriers.",
+        "opportunity": "Breeze's shorter-haul domestic routes carry meaningfully lower fuel exposure than long-haul carriers, but leadership should model fuel surcharge scenarios now before rising costs force reactive rather than proactive decisions.",
+        "paywalled": true
+      },
+      {
+        "headline": "Qatar Airways Suspends Flights to 64 Destinations Amid Iran War Crisis",
+        "source": "Greek City Times",
+        "url": "https://greekcitytimes.com/2026/04/03/qatar-airways-suspends-flights-64-destinations-2026/",
+        "secondary_urls": [
+          "https://www.dailynewsegypt.com/2026/04/04/western-airlines-seize-market-share-as-iran-war-disrupts-middle-east-aviation-hubs/"
+        ],
+        "published": "2026-04-03",
+        "date_confidence": "HIGH — Greek City Times URL date pattern /2026/04/03/ confirmed; Daily News Egypt URL /2026/04/04/ confirmed; 64 destination figure corroborated across multiple independent search result snippets including Qatar Airways' own travel alerts page",
+        "summary": "Qatar Airways suspended service to 64 destinations worldwide as the Iran war disrupts Middle East airspace and drives unprecedented fuel costs, with service to some destinations not expected to resume until May or June 2026. Western carriers are rapidly redeploying aircraft to North American and Asian routes to capture the freed-up capacity.",
+        "opportunity": "The collapse in Middle East hub connectivity could redirect some international leisure travelers toward domestic alternatives — marketing should monitor whether any Breeze markets see booking upticks as transatlantic itineraries via Gulf hubs become unavailable.",
         "paywalled": false
       },
       {
-        "headline": "Delta's Premium Crown Is Slipping as United Airlines Surges in Competitive Positioning",
-        "source": "Aviation A2Z",
-        "url": "https://aviationa2z.com/index.php/2026/04/04/delta-crown-is-slipping-and-united-is-ready-to-catch-it/",
-        "published": "2026-04-04",
-        "date_confidence": "HIGH — URL date pattern /2026/04/04/ confirmed; search result metadata consistent with April 4 publication",
-        "summary": "Aviation A2Z published an analysis on April 4 documenting structural cracks in Delta's two-decade run as America's most admired and operationally reliable airline. Analysts cited a widening product quality gap, leadership strategy questions, and United Airlines' deliberate investment in transatlantic routes and premium cabin improvements as evidence the competitive gap between the two carriers is closing. United is also capitalizing on Delta's uncertainty by expanding aggressively in markets previously considered Delta territory.",
-        "opportunity": "Network planning should establish a regular tracking cadence for Delta's upcoming capacity and schedule announcements. Any Delta pullback from leisure, mid-size, or secondary city markets to shore up its premium transatlantic positioning would be a direct opportunity signal for Breeze to move quickly in those cities.",
-        "paywalled": false
-      },
-      {
-        "headline": "United Airlines Flight Attendant Union Votes to Advance New Contract to Ratification",
-        "source": "Aviation A2Z",
-        "url": "https://aviationa2z.com/index.php/2026/04/04/united-attendants-salary-2026-after-new-contract/",
-        "published": "2026-04-04",
-        "date_confidence": "HIGH — URL date pattern /2026/04/04/ confirmed; cross-referenced with separate search results confirming ratification vote timeline (April 23 – May 12)",
-        "summary": "United Airlines' flight attendant union leadership unanimously voted on April 4 to advance a new labor contract to the full membership for ratification, with voting scheduled from April 23 through May 12. Under the proposed deal, first-year flight attendants would start at $36.92 per hour on the date of signing, rising to $42.06 by year four. Senior flight attendants with 13 or more years of service would start at $84.78 and climb to $96.58 by the contract's end. If ratified, new pay rates would take effect in June 2026.",
-        "opportunity": "As United's labor costs accelerate alongside the bag fee hikes and fuel surcharges implemented earlier this month, Breeze's non-union operating structure and lean cost model represent a meaningful structural cost advantage. Leadership should actively reference this advantage in investor presentations, analyst briefings, and any public financial commentary going forward.",
+        "headline": "Easter 2026 Brings Patchy Flight Disruptions at Major Florida Hubs",
+        "source": "The Traveler",
+        "url": "https://www.thetraveler.org/easter-2026-brings-patchy-flight-disruptions-at-major-florida-hubs/",
+        "secondary_urls": [
+          "https://www.thetraveler.org/easter-2026-storms-snarl-u-s-travel-with-5-600-flight-delays/"
+        ],
+        "published": "2026-04-05",
+        "date_confidence": "MEDIUM — Publication date inferred from Easter Sunday (April 5) contextual framing in headline and content; could not fetch article to confirm exact timestamp due to HTTP 403; national total of 5,600 delays corroborated by multiple independent search result snippets",
+        "summary": "Florida's three major hubs — Orlando, Miami, and Fort Lauderdale — experienced patchy but persistent disruptions on Easter Sunday as the overall Easter weekend's national total climbed past 5,600 delays, driven by spring storms colliding with peak holiday volumes and TSA staffing gaps from ongoing federal workforce pressures.",
+        "opportunity": "Breeze's point-to-point model through secondary airports kept the carrier largely clear of the hub-cascade disruptions throughout the Easter weekend — communications should make this operational advantage visible on social media and in outreach to local market reporters this week.",
         "paywalled": false
       }
     ]
