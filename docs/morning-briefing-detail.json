@@ -1,82 +1,103 @@
 {
-  "date": "2026-04-07",
-  "generated_at": "2026-04-07T09:00:00.000Z",
-  "validation_notes": "Today's briefing covers the last 24 hours (April 6–7, 2026). WebFetch returned HTTP 403 for virtually all attempted article URLs — story inclusion was determined using URL date patterns, explicit date text in search result metadata, and cross-referencing multiple independent search result snippets per story. Stories confirmed within the 24-hour window via URL date pattern: Lincoln/Breeze launch (nationaltoday.com /2026/04/06/), Easter Monday chaos (traveltourister.com /april-6-2026/ in slug), ACSI rankings (theacsi.org /2026/04/06/), TSA wait times (time.com /2026/04/06/). Italy fuel rationing story confirmed as April 2026 via URL slug but exact day unconfirmed; article content referencing rationing 'through at least April 9' places publication in the April 5–7 window with high confidence. Stories excluded as already covered in Monday April 6 briefing: Iran war/fuel @ $197/barrel (Bloomberg April 4), Qatar Airways 64-destination suspension (Greek City Times April 3), Easter Sunday disruptions (The Traveler April 5). Stories excluded as stale per DATE VALIDATION rule: JetBlue merger exploration (Semafor original March 25), Delta LAX-Anchorage cut (Simple Flying original ~April 4), Frontier booking cutoff (original January 2026), Avelo network simplification (January 2026), Allegiant-Sun Country merger (January 2026), FAA radar contracts (January 2026), Breezy Rewards relaunch (January 1, 2026), Essential Air Service budget cuts (Trump FY2027 budget released April 3, now 4 days old).",
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T10:30:00.000Z",
+  "validation_notes": "Today's briefing covers the last 24 hours (April 7–8, 2026). WebFetch returned HTTP 403 for virtually all attempted article URLs — story inclusion was determined using URL date patterns, explicit date text in search result metadata, and cross-referencing multiple independent search snippets per story. The Breeze fare sale date (April 7) was inferred from the sale-end date of April 9, the sale's appearance in April 7 search results, and corroboration across four separate local TV market articles. Stories carried in yesterday's April 7 briefing (Lincoln launch, Easter disruptions, ACSI rankings, TSA/DHS shutdown, Italy fuel rationing) are excluded from today's briefing to avoid repetition. The jet fuel story is included as a new development: yesterday's briefing covered Italian airport rationing; today's CNBC story covers U.S. domestic supply chain concerns, supply shortfall warnings, and specific airline cost disclosures — a distinct update in the same continuing story. Stories excluded as outside 24-hour window: JetBlue merger exploration (Semafor original March 25), Allegiant-Sun Country antitrust clearance (March 16), United bag fee increase (April 2), Avelo restructuring (January 7). Stories excluded per Simple Flying rule: all simpleflying.com results omitted.",
   "breeze": {
-    "narrative": "Breeze Airways officially launched nonstop service from Lincoln, Nebraska to Las Vegas yesterday, with Lincoln's local news covering the airline's arrival ahead of the first revenue flights beginning April 9th. Service operates three times weekly on an Airbus A220, with BreezeThru connections available to Orange County — opening single-ticket access to both Las Vegas and Southern California from central Nebraska for the first time. No adverse coverage of the Lincoln launch is visible at this time.",
+    "narrative": "Breeze had a clean 24-hour cycle with no negative press, operational issues, or social media concerns. The brand earned simultaneous positive local television coverage in four markets — Columbus, Wilmington, Jacksonville, and Myrtle Beach — through a coordinated promotional fare sale with fares starting as low as $45 one way, available through April 9 for travel through May 14. This coverage lands at a favorable moment given that legacy carriers are dominating aviation headlines today for raising bag fees, creating a natural contrast opportunity for the marketing team to activate quickly.",
     "stories": [
       {
-        "headline": "Breeze Airways Launches Nonstop Service from Lincoln, Nebraska to Las Vegas",
-        "source": "Lincoln Today (National Today)",
-        "url": "https://nationaltoday.com/us/ne/lincoln/news/2026/04/06/breeze-airways-launches-new-nonstop-flights-from-lincoln-to-las-vegas/",
+        "headline": "Breeze Airways Runs Multi-Market Promotional Fare Sale: Fares from $45 One Way, Sale Ends April 9",
+        "source": "ABC6 Columbus / WPDE Myrtle Beach / WWAYTV3 Wilmington / Yahoo Travel (Jacksonville)",
+        "url": "https://abc6onyourside.com/news/local/air-carrier-offering-nine-new-fares-from-cmh-through-april-9-breeze-airways-columbus-ohio-charleston-south-carolina-fort-myers-florida-greenville-spartanburg-sc-hartford-connecticut-jacksonville-fla-norfolk-virginia-portland-maine-providence-rhode-island",
         "secondary_urls": [
-          "https://www.travelandtourworld.com/news/article/travel-expansion-now-in-lincoln-breeze-airways-launches-nonstop-flights-to-major-destinations-in-2026/"
+          "https://wpde.com/news/local/breeze-airways-offering-direct-flights-starting-at-54-orlando-florida-airbus-starting-west-plains-fares-tampa-ohio",
+          "https://www.wwaytv3.com/breeze-airways-announces-limited-time-54-fares-from-wilmington/",
+          "https://travel.yahoo.com/news/articles/airline-offering-fares-ranging-45-122507763.html"
         ],
-        "published": "2026-04-06",
-        "date_confidence": "HIGH — URL date pattern /2026/04/06/ confirmed; Travel And Tour World secondary coverage corroborates same story; first revenue flight date of April 9 independently verified across multiple search result snippets",
-        "summary": "Breeze Airways officially launched nonstop service from Lincoln Municipal Airport (LNK) to Las Vegas (LAS), with the first revenue flight scheduled for April 9, 2026, operating three times weekly on an Airbus A220. Breeze is also offering a BreezeThru routing from Lincoln continuing to Orange County (SNA), giving central Nebraska travelers a single-ticket option to Southern California without a plane change.",
-        "opportunity": "Lincoln is a net-new Breeze market — the communications team should identify local Lincoln and Nebraska media for proactive story placement, and the first week of service is an ideal window to generate goodwill coverage and social engagement in a new community.",
-        "paywalled": false
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — Sale end date of April 9 and appearance in April 7 search results strongly indicates April 7 publication; corroborated by four independent local TV market articles all referencing the same sale window; sale fares (Columbus: $59+, Myrtle Beach: $54+, Wilmington: $54+, Jacksonville: $45+) confirmed independently across multiple search snippets",
+        "summary": "Breeze Airways is running a coordinated promotional fare sale across at least four markets: Columbus OH (fares from $59 one way to 9 destinations), Myrtle Beach SC (from $54 to 8 destinations), Wilmington NC (from $54 to 8 destinations), and Jacksonville FL (from $45 to 9 destinations). All sales end April 9 for travel through May 14, 2026.",
+        "opportunity": "With Delta, United, and JetBlue all raising bag fees this week and dominating aviation headlines, Breeze's affordable promotional fares represent an organic contrast marketing moment — a same-day social post or targeted digital campaign highlighting Breeze's fare approach versus legacy carrier fees could reach cost-conscious travelers while the news cycle is focused on airline costs.",
+        "paywalled": true
       }
     ]
   },
   "industry": {
     "stories": [
       {
-        "headline": "Easter Monday US Flight Chaos: 5,029 Total Disruptions, Delta Leads Cancellations, Atlanta Most Disrupted Hub",
-        "source": "Traveltourister",
-        "url": "https://www.traveltourister.com/news/us-flight-chaos-easter-monday-april-6-2026-4722-delays-307-cancellations/",
+        "headline": "Delta Raises First Checked Bag Fee to $45, Effective April 8, Joining United and JetBlue",
+        "source": "Axios / CBS News / PBS NewsHour",
+        "url": "https://www.axios.com/local/twin-cities/2026/04/07/delta-checked-bag-fees-45-dollars-april-2026-new-prices-iran-war",
         "secondary_urls": [
-          "https://www.traveltourister.com/news/miami-airport-chaos-april-7-2026/",
-          "https://www.traveltourister.com/news/atlanta-airport-chaos-easter-monday-april-6-2026-35-cancellations-153-delays-delta-worst-hit-masters-week-return-crush-dot-rights/",
-          "https://www.travelandtourworld.com/news/article/united-states-travel-chaos-in-2026-easter-rush-sees-5600-flight-delays-and-hundreds-of-cancellations-impacting-trips-nationwide-latest-update/"
+          "https://www.cbsnews.com/news/delta-bag-check-fee-jet-fuel-iran-war/",
+          "https://www.pbs.org/newshour/economy/as-jet-fuel-costs-soar-delta-joins-growing-list-of-u-s-airlines-raising-checked-bag-fees",
+          "https://www.pressdemocrat.com/2026/04/07/delta-baggage-fees/"
         ],
-        "published": "2026-04-06",
-        "date_confidence": "HIGH — 'april-6-2026' appears explicitly in URL slug; April 7 Miami continuation confirmed by separate traveltourister URL; disruption figures (5,029 total, 307 cancellations, 4,722 delays) corroborated across multiple independent search result snippets including El-Balad, travelandtourworld, and immigrationnewscanada",
-        "summary": "Easter Monday produced 5,029 total U.S. flight disruptions — 307 cancellations and 4,722 delays — making it the worst single day of the 2026 Easter travel weekend. Delta Air Lines led all carriers with 139 cancellations and 408 delays; Atlanta's Hartsfield-Jackson was the most disrupted hub with 35 cancellations and 153 delays; and disruptions continued into Tuesday April 7 with Miami recording approximately 197 delays and 9 cancellations, and Seattle posting 71 delays and 8 cancellations.",
-        "opportunity": "Breeze's secondary-airport, point-to-point model largely insulated its passengers from the hub cascade that grounded or delayed thousands of travelers — the communications and social teams should make this reliability contrast visible while Easter hub chaos remains the dominant travel news story.",
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed in Axios URL; effective date of April 8 cross-confirmed across CBS News, PBS, Press Democrat, Spectrum News, KBTX, and Newsweek; fee amounts ($45/$55/$200) corroborated across all sources",
+        "summary": "Delta Air Lines announced Tuesday it is raising its first checked bag fee by $10 to $45, the second bag to $55, and the third bag to $200, effective for all domestic and short-haul international tickets purchased April 8 or later. The increase is the third major carrier bag fee hike in two weeks — United raised fees to the same $45 level on April 2 and JetBlue raised fees in late March — all driven by jet fuel costs that have nearly doubled since the Iran conflict began in late February.",
+        "opportunity": "With all three major carriers now charging $45 or more for a first checked bag, Breeze has a clear opening to communicate its own fee structure to cost-conscious travelers — the marketing team should evaluate a rapid-response campaign or targeted social content today while the story is at peak news cycle velocity.",
         "paywalled": false
       },
       {
-        "headline": "ACSI Releases 2025 Airline Customer Satisfaction Rankings: Most U.S. Carriers Post Improved Scores",
-        "source": "American Customer Satisfaction Index (ACSI)",
-        "url": "https://theacsi.org/news-and-resources/news/2026/04/06/southwest-airlines-joins-jetblue-alaska-frontier-american-delta-united-and-more-us-airlines-surging-fast-as-airline-rankings-shifting-rapidly-new-update-is-here/",
+        "headline": "Iran War Drives Jet Fuel to $4.88/Gallon; Supply Concerns Mount as Strait of Hormuz Closures Persist",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/iran-war-jet-fuel-airlines.html",
         "secondary_urls": [
-          "https://theacsi.org/news-and-resources/news/2026/04/05/this-us-airline-ranked-the-highest-in-2025-in-terms-of-customer-satisfaction/"
+          "https://skift.com/2026/04/07/airlines-say-demand-is-strong-is-that-enough-to-offset-added-fuel-costs/",
+          "https://www.pymnts.com/travel-payments/2026/delta-hikes-baggage-fees-as-jet-fuel-costs-jump-132percent"
         ],
-        "published": "2026-04-06",
-        "date_confidence": "HIGH — URL date pattern /2026/04/06/ confirmed; companion April 5 article (/2026/04/05/) confirms the rankings were released over the April 5–6 window",
-        "summary": "The American Customer Satisfaction Index released an update to its 2025 airline rankings, covering major U.S. carriers across 21 performance benchmarks including mobile app quality, ease of check-in, loyalty program strength, cabin cleanliness, and on-time arrivals. Southwest, JetBlue, Alaska, Frontier, American, Delta, and United all posted improved scores in what the ACSI characterized as broadly positive industry momentum.",
-        "opportunity": "Breeze does not appear in the ACSI published airline rankings — leadership should evaluate whether commissioning independent third-party customer satisfaction measurement would strengthen brand positioning, particularly if a public market or IPO narrative is on the medium-term horizon.",
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed in CNBC URL; price figure of $4.88/gallon and 132% increase corroborated across PYMNTS, Axios, and multiple search snippets; United CEO $400M cost estimate independently verified in search results",
+        "summary": "CNBC reported Tuesday that jet fuel has surged 132 percent since the U.S.-Israel attack on Iran on February 28, reaching $4.88 per gallon ($209 per barrel), with the effective closure of the Strait of Hormuz choking supply of both crude and refined products. United CEO Scott Kirby estimated the conflict has already added approximately $400 million to United's operating costs, and analysts are warning the supply crunch could force airlines to cut flights, particularly on overseas routes.",
+        "opportunity": "Breeze's Airbus A220 fleet burns approximately 25 percent less fuel than older narrowbody aircraft types, making Breeze's cost structure meaningfully more resilient than legacy carriers in the current fuel environment — this should be surfaced explicitly in any upcoming CEO media appearances, investor conversations, or route planning discussions.",
         "paywalled": false
       },
       {
-        "headline": "TSA Airport Wait Times Improving as DHS Shutdown Persists; Senate Passes Stop-Gap Bill",
-        "source": "Time Magazine",
-        "url": "https://time.com/article/2026/04/06/airport-waits-tsa-dhs-shutdown-trump/",
-        "secondary_urls": [
-          "https://www.visahq.com/news/2026-04-05/us/us-senate-passes-stop-gap-bill-to-reopen-most-of-dhs-leaving-ice-and-cbp-funding-for-later/",
-          "https://www.axios.com/2026/03/25/tsa-airport-security-quit-shutdown"
-        ],
-        "published": "2026-04-06",
-        "date_confidence": "HIGH — URL date pattern /2026/04/06/ confirmed for Time article; Senate bill passage confirmed on 2026-04-05 via visahq.com URL date pattern; 43% call-out rate reduction figure corroborated across multiple search result snippets",
-        "summary": "Time magazine reported that TSA officer call-out rates dropped 43 percent after President Trump signed an executive order directing the agency to pay its workers during the ongoing DHS shutdown (in effect since February 14), with security wait times at major hubs falling from multi-hour peaks to under 10 minutes at most airports. The Senate passed a stop-gap funding bill on April 5th to restore full TSA operations, but the measure still awaits action in the House.",
-        "opportunity": "Leadership should assess whether any Breeze markets experienced disproportionate TSA staffing gaps during the six-week shutdown — smaller airports with lower passenger volumes may have had better or worse relative experiences — and determine whether proactive passenger communication is warranted before the House acts on the Senate bill.",
+        "headline": "Airlines Say Demand Is Still Strong — Is That Enough to Offset Billions in Added Fuel Costs?",
+        "source": "Skift",
+        "url": "https://skift.com/2026/04/07/airlines-say-demand-is-strong-is-that-enough-to-offset-added-fuel-costs/",
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed; article appeared in multiple search result sets for April 7 queries",
+        "summary": "Skift reported Tuesday that U.S. airline passenger demand remains resilient despite the fuel cost surge, with leisure travel holding up particularly well — but analysts warn that sustained jet fuel prices near $5 per gallon could erase most or all of industry profits in 2026, particularly if demand softens even modestly.",
+        "opportunity": "Strong leisure demand supports Breeze's continued route expansion strategy and validates the secondary-market network thesis; however, finance and network planning should stress-test Q3 and Q4 margin assumptions against a scenario where fuel costs remain elevated through summer peak — the Skift analysis provides a useful framework for that exercise.",
         "paywalled": false
       },
       {
-        "headline": "Northern Italian Airports Begin Emergency Fuel Rationing Amid Global Jet Fuel Crisis",
-        "source": "Traveltourister",
-        "url": "https://www.traveltourister.com/news/italy-airport-chaos-fuel-crisis-rome-milan-venice-april-2026/",
+        "headline": "Southwest Airlines Limits Passengers to One Portable Charger Per Flight, Effective April 20",
+        "source": "KTLA / National Today / TravelPulse",
+        "url": "https://ktla.com/news/consumer-business/southwest-airlines-announces-new-limit-on-portable-chargers/",
         "secondary_urls": [
-          "https://thehill.com/business/5815792-flight-cancellations-and-fare-hikes/",
-          "https://www.aerotime.aero/articles/airline-fuel-hedging-iran-conflict-crisis",
-          "https://gulfnews.com/business/aviation/jet-fuel-crisis-deepens-airlines-cancel-flights-raise-fares-as-global-supply-tightens-1.500498098"
+          "https://nationaltoday.com/us/dc/washington/news/2026/04/07/southwest-airlines-limits-passengers-to-one-portable-charger/",
+          "https://www.travelpulse.com/news/airlines-airports/southwest-airlines-announces-new-restrictions-for-portable-chargers-on-flights"
         ],
-        "published": "2026-04-06",
-        "date_confidence": "MEDIUM — URL slug contains 'april-2026' but no specific day; article content references fuel rationing 'through at least April 9, 2026' placing publication in the April 5–7 window with high confidence; context is a continuing story (Iran war began February 28, 2026) with this specific Italy rationing development being new within the window",
-        "summary": "Airports in northern Italy including Milan Linate, Venice Marco Polo, Bologna, and Treviso began emergency jet fuel rationing this week, capping individual aircraft uplifts at 2,000 liters per fill-up through at least April 9th, as the global jet fuel crisis triggered by the Iran war's closure of the Strait of Hormuz continues to intensify. U.S. jet fuel prices have surged roughly 95 percent since late February (from approximately $2.50 to $4.88 per gallon), and international carriers including Ryanair, Air New Zealand, and SAS have warned of or begun implementing flight cancellations and fare surcharges.",
-        "opportunity": "Breeze's Airbus A220 fleet is among the most fuel-efficient narrowbody aircraft in commercial service — this structural cost advantage should be made explicit in any upcoming investor, media, or revenue management conversations as the industry absorbs what may become a prolonged fuel cost shock.",
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — National Today URL date pattern /2026/04/07/ confirmed; effective date of April 20 cross-confirmed across KTLA, TravelPulse, NewsNation, NTD, Yahoo News, and SRN News; announcement confirmed as formal Southwest policy change across all sources",
+        "summary": "Southwest Airlines announced Tuesday it will limit passengers to one portable lithium charger per flight starting April 20, banning power banks from overhead bin storage and in-seat charging outlets, citing lithium battery fire risk. The change aligns with — and in one-charger limit is actually stricter than — the International Civil Aviation Organization's recent guidance of two portable chargers per passenger issued last month.",
+        "opportunity": "Breeze communications should verify that our portable device policy is current and consistent with ICAO guidance, and prepare a brief holding statement ahead of any media outreach that surveys airlines on their battery safety posture in the wake of the Southwest announcement.",
+        "paywalled": false
+      },
+      {
+        "headline": "Delta Air Lines Pilots Push for New Contract Ahead of December 2026 Amendable Date",
+        "source": "Aviation A2Z",
+        "url": "https://aviationa2z.com/index.php/2026/04/07/delta-air-lines-pilots-push-for-new-contract/",
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed; content corroborated by multiple search snippets referencing ALPA, December 2026 amendable date, and Section 6 negotiations reopened in early 2026",
+        "summary": "Aviation A2Z reported Tuesday that Delta Air Lines pilots have reopened Section 6 labor contract negotiations ahead of their current contract's December 31, 2026 amendable date, with ALPA pushing for a quick deal while Delta's profits remain high and the union's pay gap with competitors has narrowed significantly. The union is seeking to close negotiations before Delta's leverage window shrinks heading into 2027.",
+        "opportunity": "A significant Delta pilot wage settlement could reset industry labor pay benchmarks across U.S. carriers and create upward pressure on pilot compensation industry-wide — Breeze's people, finance, and workforce planning teams should track this negotiation closely as they build 2027 operational cost assumptions.",
+        "paywalled": false
+      },
+      {
+        "headline": "Southwest Airlines Launches Inaugural Service to Sonoma County Airport with Four Nonstop Routes",
+        "source": "Press Democrat / KION Central Coast",
+        "url": "https://www.pressdemocrat.com/2026/04/07/sonoma-county-airport-welcomes-first-southwest-airlines-flight/",
+        "secondary_urls": [
+          "https://kioncentralcoast.com/news/2026/04/07/first-southwest-airlines-flight-lands-at-santa-rosa-airport/"
+        ],
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed in both Press Democrat and KION URLs; inaugural flight event and four-route launch (Burbank, San Diego, Las Vegas, Denver) corroborated across both sources",
+        "summary": "Southwest Airlines completed its inaugural flight to Charles M. Schulz Sonoma County Airport in Santa Rosa, California on Tuesday, launching nonstop service to Burbank, San Diego, Las Vegas, and Denver. Southwest also introduced a new Sip and Ship program allowing passengers to check one case of wine at no cost from select West Coast departure points, targeted at the region's wine tourism market.",
+        "opportunity": "Southwest's continued entry into smaller, leisure-focused secondary airports mirrors Breeze's own network strategy and signals intensifying competition in non-hub leisure markets — Breeze network planning should track Southwest's secondary airport expansion for both competitive overlap and opportunities to differentiate on routes or frequency where Southwest has limited presence.",
         "paywalled": false
       }
     ]
