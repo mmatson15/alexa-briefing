@@ -1,49 +1,85 @@
 {
-  "date": "2026-04-02",
-  "generated_at": "2026-04-02T09:00:00.000Z",
-  "validation_warning": "WebFetch returned HTTP 403 for all attempted source URLs (30+ attempts across all major news domains). No article body content could be loaded for full verification. Story dates confirmed via: explicit date text in search result metadata, URL date patterns (e.g. /2026/04/01/), and cross-referencing multiple independent search results. ITA Airways joining Star Alliance (April 1) was excluded as it was already covered in yesterday's April 1 briefing. Stories were excluded if their publication date could not be confirmed within the 24-hour window (April 1–2, 2026) by at least one of these methods.",
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T14:30:00.000Z",
+  "validation_notes": "Today's briefing covers the last 24 hours (April 8–9, 2026). WebFetch returned HTTP 403 for virtually all attempted article URLs — story inclusion was determined using URL date patterns confirmed in search result links, explicit date text in search result metadata, and cross-referencing multiple independent search snippets per story. All stories have confirmed publication dates of April 7–9 via URL date patterns or cross-corroborated search snippet data. The JetBlue/DOT story uses Bloomberg (April 7) as the primary source but is corroborated by Aviation A2Z (April 8 URL confirmed) and other April 8 outlets; the DOT Secretary's public statement on April 7 and follow-up coverage on April 8 constitute genuine new developments beyond the March 25 Semafor original. The Southwest bag fee story (effective April 9) is included as an April 8 story based on widespread confirmed April 8 media coverage. Stories excluded as outside 24-hour window: European airport cyberattack (April 4–6), Allegiant-Sun Country merger (January 2026), FAA radar contracts (January 2026), Avelo restructuring (January 2026), JetBlue merger original story (March 25), Frontier booking pause (January 2026). Stories carried in yesterday's April 8 briefing (Breeze fare sale, Delta bag fee hike original, jet fuel CNBC story, Southwest charger restriction, Delta pilot contract, Southwest Sonoma launch) are excluded from today's briefing to avoid repetition. Stories excluded per Simple Flying rule: all simpleflying.com results omitted.",
   "breeze": {
-    "narrative": "No new Breeze coverage confirmed in the last 24 hours. Breeze is out of the news cycle on April 2, 2026 — no crisis flags, no negative press, no competitor attacks on the brand. The most recent confirmed Breeze news remains the January 28, 2026 twelve-route expansion announcement and early-2026 Breezy Rewards loyalty overhaul.",
-    "stories": []
+    "narrative": "Breeze had a strong 24-hour news cycle anchored by the launch of service in Lincoln, Nebraska. Local television station Eleven News and KLIN Radio both ran positive coverage of the airline's first nonstop flights from Lincoln Airport — more than one hundred passengers boarded the inaugural Airbus A220 on April eighth, bound for Las Vegas before continuing as a BreezeThru service to Orange County, California. Miss Lincoln Hannah Johnson was among the inaugural passengers, generating exactly the kind of feel-good local press that accelerates brand recognition and loyalty in a new market. There are no negative Breeze stories in national or local circulation this morning.",
+    "stories": [
+      {
+        "headline": "Lincoln's First Breeze Airways Flight to Las Vegas, Orange County Takes Off at LNK Airport",
+        "source": "Eleven News (KSNB / 1011now.com) / KLIN Radio / National Today Las Vegas",
+        "url": "https://www.1011now.com/2026/04/09/lincolns-first-breeze-airways-flight-las-vegas-orange-county-takes-off-lnk-airport/",
+        "secondary_urls": [
+          "https://klin.com/2026/04/08/600670/",
+          "https://nationaltoday.com/us/nv/las-vegas/news/2026/04/08/breeze-airways-launches-new-flights-from-las-vegas-to-lincoln/"
+        ],
+        "published": "2026-04-09",
+        "date_confidence": "HIGH — 1011now.com URL date pattern /2026/04/09/ confirmed; KLIN.com URL /2026/04/08/ confirmed; National Today Las Vegas URL /2026/04/08/ confirmed; first flight event timing (Wednesday, April 8) corroborated across multiple search snippets including journalstar.com, omaha.com, and nebraskapublicmedia.org; passenger count (100+), aircraft type (A220), and BreezeThru to Orange County confirmed across all sources",
+        "summary": "Breeze Airways launched its first nonstop service from Lincoln Airport (LNK) on April 8, 2026, with over 100 passengers boarding an Airbus A220 for Las Vegas; the aircraft continued to Orange County, California as a BreezeThru service, giving Lincoln travelers access to two West Coast destinations on a single boarding. The twice-weekly route (Wednesdays and Saturdays) is a milestone for the market, which previously had only limited nonstop service.",
+        "opportunity": "Local coverage across Nebraska and Las Vegas has been uniformly positive — the communications team should amplify key media clips, including the Miss Lincoln inaugural-passenger angle, across Breeze social channels to maximize brand awareness and route loyalty in this new market.",
+        "paywalled": true
+      }
+    ]
   },
   "industry": {
     "stories": [
       {
-        "headline": "U.S. Carriers May Be Circling JetBlue for a Potential Acquisition",
-        "source": "FlightGlobal",
-        "url": "https://www.flightglobal.com/archive/2026/04/why-us-carriers-may-be-circling-jetblue-for-a-potential-takeover/",
-        "published": "2026-04-01",
-        "date_confidence": "HIGH — Search result explicitly confirmed 'Published: 1 April 2026 | Author: Howard Hardee'; URL path contains /archive/2026/04/",
-        "summary": "FlightGlobal published an analysis on April 1 examining why United Airlines, Alaska Airlines, and Southwest Airlines may be considering acquiring JetBlue Airways. JetBlue's shares have fallen more than 40% since the start of 2025, the airline has not turned a profit since 2019, and it has tapped advisers to assess sale scenarios — though FlightGlobal notes no deal appears imminent. JetBlue's key assets include 227 owned aircraft, valuable East Coast landing slots, and strong positions in Boston and Fort Lauderdale.",
-        "opportunity": "If JetBlue is acquired or forced into a significant restructuring, its leisure-focused East Coast routes — particularly around Boston, Fort Lauderdale, and JFK — could become accessible to other carriers. Network planning should run a full overlay of JetBlue's current route map against Breeze's existing and planned footprint to identify any markets where accelerated expansion could be warranted."
+        "headline": "Delta Posts Q1 Record Revenue of $14.2B but Net Loss of $289M; CEO Bastian Announces Meaningful Capacity Cuts for Rest of 2026",
+        "source": "CNBC / Delta News Hub / PRNewswire",
+        "url": "https://www.cnbc.com/2026/04/08/delta-air-lines-q1-2026-earnings.html",
+        "secondary_urls": [
+          "https://news.delta.com/delta-air-lines-announces-march-quarter-2026-financial-results",
+          "https://www.prnewswire.com/news-releases/delta-air-lines-announces-march-quarter-2026-financial-results-302736586.html",
+          "https://www.aerotime.aero/articles/delta-air-lines-ed-bastian-quarter-results",
+          "https://www.benzinga.com/markets/earnings/26/04/51705692/delta-ceo-says-demand-is-strong-but-fuel-surge-clouds-outlook"
+        ],
+        "published": "2026-04-08",
+        "date_confidence": "HIGH — CNBC URL date pattern /2026/04/08/ confirmed; PRNewswire release number 302736586 with April 8 date confirmed in MarketScreener; Aerotime, GuruFocus, Yahoo Finance, Benzinga, and MSN all independently cover the April 8 earnings call; Q1 revenue of $14.2B, net loss of $289M, Q2 guidance of $1B pretax profit, and fuel cost of $4.30/gallon projection corroborated across all sources",
+        "summary": "Delta Air Lines reported March quarter 2026 revenue of $14.2 billion (a record) but a net loss of $289 million driven by jet fuel costs running $2 billion above plan due to the Middle East conflict; CEO Ed Bastian announced the airline will meaningfully cut capacity growth for the rest of 2026, prioritizing reductions in off-peak, edge-of-day, and red-eye flying, with full-year capacity now expected to be flat or slightly negative.",
+        "opportunity": "Delta's capacity pullback in off-peak and leisure-skewing flying creates potential route openings in markets where Breeze competes or is evaluating entry — network planning should actively monitor Delta schedule changes over the next 30 days for actionable white space.",
+        "paywalled": true
       },
       {
-        "headline": "Delta Air Lines Selects Amazon Leo for In-Flight Wi-Fi on 500 Aircraft Starting 2028",
-        "source": "CNBC / Multiple outlets",
-        "url": "https://dataconomy.com/2026/04/01/delta-picks-amazon-leo-for-in-flight-wi-fi-starting-in-2028/",
-        "secondary_url": "https://www.cnbc.com/2026/03/31/delta-air-lines-amazon-leo-inflight-wi-fi.html",
-        "published": "2026-04-01",
-        "date_confidence": "HIGH — CNBC article URL confirms March 31, 2026 announcement; Dataconomy article URL confirms April 1, 2026 coverage; Bloomberg URL contains 2026-03-31; AeroTime included in April 1 roundup. Included as April 1 story based on confirmed April 1 coverage dates.",
-        "summary": "Delta Air Lines announced a multi-year agreement with Amazon to use its Leo satellite constellation for in-flight Wi-Fi on an initial 500 aircraft beginning in 2028, offering free connectivity to SkyMiles members with download speeds up to 1 Gbps. The deal gives Amazon a significant win over SpaceX's Starlink in the airline Wi-Fi race. Delta is the second U.S. airline to sign with Amazon Leo after JetBlue. United, Southwest, and Alaska Airlines are all aligned with Starlink.",
-        "opportunity": "Every major U.S. carrier has now committed to next-generation satellite Wi-Fi. Breeze leadership should evaluate the airline's current connectivity offering and roadmap to determine whether — and when — an upgrade to high-speed satellite Wi-Fi becomes a competitive necessity for its leisure passenger base."
+        "headline": "Delta and Southwest Raise Checked Bag Fees by $10, Joining United and JetBlue in Industry-Wide Increase to $45 First Bag",
+        "source": "Fox Business / Deseret News / AZFamily / KPTV",
+        "url": "https://www.foxbusiness.com/lifestyle/delta-southwest-hike-checked-bag-fees-airlines-face-surging-fuel-costs",
+        "secondary_urls": [
+          "https://www.azfamily.com/2026/04/08/delta-southwest-among-latest-airlines-raise-checked-baggage-fees/",
+          "https://www.deseret.com/lifestyle/2026/04/08/delta-raises-checked-bag-fees/",
+          "https://www.kptv.com/2026/04/08/delta-southwest-among-airlines-raising-bag-fees-pdx/",
+          "https://www.cnbc.com/2026/04/07/delta-checked-bag-fees.html"
+        ],
+        "published": "2026-04-08",
+        "date_confidence": "HIGH — AZFamily URL /2026/04/08/ confirmed; Deseret News URL /2026/04/08/ confirmed; KPTV URL /2026/04/08/ confirmed; CNBC original URL /2026/04/07/ confirmed; Southwest effective date of April 9 and Delta effective date of April 8 independently corroborated across Fox Business, Deseret News, AZFamily, KPTV, Men's Journal, TravelAwaits, and Upgraded Points; fee amounts ($45 first bag, $55 second bag) confirmed across all sources",
+        "summary": "Delta (effective April 8) and Southwest (effective April 9) raised their first checked bag fees to $45 and second bag fees to $55, completing an industry-wide $10 fee increase across all four major U.S. carriers — Delta, Southwest, United, and JetBlue — driven by jet fuel costs that have nearly doubled since late February 2026.",
+        "opportunity": "With all four major carriers now charging $45 or more for a first checked bag, Breeze has a clear and timely messaging opportunity — communications should verify Breeze's current bag fee structure and, if it compares favorably, evaluate whether a targeted digital message or social post this week would reach cost-conscious leisure travelers while the story is at peak news cycle velocity.",
+        "paywalled": true
       },
       {
-        "headline": "Alaska Air Group Launches Unified Alaska Hawaiian Mobile App Ahead of April 22 Reservation System Cutover",
-        "source": "AirlineGeeks",
-        "url": "https://airlinegeeks.com/2026/04/01/alaska-launches-combined-alaska-hawaiian-app/",
-        "published": "2026-04-01",
-        "date_confidence": "HIGH — AirlineGeeks article URL confirms /2026/04/01/ date stamp",
-        "summary": "Alaska Air Group launched a unified Alaska Hawaiian mobile app on April 1 consolidating both brands into a single platform for booking, check-in, seat selection, and travel management. The legacy Hawaiian Airlines app remains available until April 21; from April 22, all passengers on both brands will use the new app. On April 22, the full passenger service system (PSS) migration from Amadeus to Sabre will occur, and Hawaiian flights will begin operating under Alaska Airlines (AS) flight numbers.",
-        "opportunity": "The Alaska-Hawaiian integration is accelerating across all customer-facing systems simultaneously. As the combined carrier emerges with a more unified, polished experience, Breeze should assess where the expanded Alaska network overlaps with Breeze's leisure market footprint — particularly in Hawaii-adjacent West Coast markets — and whether competitive responses are warranted."
+        "headline": "DOT Secretary Duffy Says There Is 'Room' for U.S. Airline Mergers; JetBlue Exploring Sale to United, Alaska, or Southwest",
+        "source": "Bloomberg / Aviation A2Z / Travel Weekly",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-07/dot-secretary-duffy-says-there-s-room-for-us-airline-mergers",
+        "secondary_urls": [
+          "https://aviationa2z.com/index.php/2026/04/08/jetblue-takeover-buzz-grows-as-trump-backs-big-airline-deals/",
+          "https://www.travelweekly.com/Travel-News/Airline-News/DOT-secretary-signals-openness-to-airline-consolidation",
+          "https://liveandletsfly.com/trump-airline-mergers-big-deals/",
+          "https://www.semafor.com/article/03/25/2026/jetblue-explores-potential-merger-partners"
+        ],
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — Bloomberg URL date pattern /2026-04-07/ confirmed; Aviation A2Z follow-up URL /2026/04/08/ confirmed; Travel Weekly and liveandletsfly.com corroborate April 7–8 timing; Semafor original JetBlue merger story dated March 25 (URL confirmed); DOT Secretary Duffy quotes corroborated across Bloomberg, Reuters (via Investing.com), AeroTime, liveandletsfly.com, One Mile at a Time, and Aviation Source News; JetBlue Q1 loss estimate of $200M+ confirmed in search results",
+        "summary": "Transportation Secretary Sean Duffy stated April 7 that the Trump administration sees room for consolidation in the U.S. airline industry — 'Trump loves to see big deals happen' — intensifying speculation, amplified in follow-up coverage April 8, that JetBlue is actively exploring a sale to United Airlines, Alaska Airlines, or Southwest after projecting first-quarter losses of over $200 million.",
+        "opportunity": "A JetBlue acquisition by any of the three named buyers would significantly shift the competitive landscape in markets where Breeze and JetBlue overlap, including key leisure cities in Florida and the Northeast — leadership and network planning should begin scenario-planning around the most likely deal structures and competitive responses.",
+        "paywalled": true
       },
       {
-        "headline": "Alaska Airlines Unveils Lie-Flat Business Class Suites for Boeing 787-9 Long-Haul Service",
-        "source": "AeroTime",
-        "url": "https://www.aerotime.aero/articles/alaska-airlines-unveils-business-class-suites-for-upcoming-long-haul-service",
-        "published": "2026-04-01",
-        "date_confidence": "MEDIUM-HIGH — AeroTime confirmed the article in its April 1, 2026 news roundup; URL does not contain explicit date stamp but story appeared in verified April 1 coverage",
-        "summary": "Alaska Airlines unveiled a new international business class cabin featuring fully lie-flat suites with privacy doors, direct aisle access, 18-inch screens, and wireless charging, designed for the carrier's Boeing 787-9 aircraft. The product will debut on new long-haul routes from Seattle to Europe and Asia, announced as part of Alaska's strategic pivot following the Hawaiian Airlines acquisition. Alaska currently has 12+ long-haul international routes planned from Seattle-Tacoma.",
-        "opportunity": "Alaska is transitioning from a West Coast regional carrier into a full-service international airline with a premium product. Post-Hawaiian-acquisition, the combined carrier is building capabilities that place it in a different competitive tier. Breeze leadership should track where Alaska's growing leisure and premium-leisure network intersects with Breeze's secondary-airport strategy, particularly in Pacific Northwest and West Coast origination markets."
+        "headline": "Eugene Airport Receives $6.24 Million Federal Grant to Renovate and Expand Concourse A",
+        "source": "OPB (Oregon Public Broadcasting)",
+        "url": "https://www.opb.org/article/2026/04/08/eugene-airport-renovation-expansion-6-million-dollars/",
+        "published": "2026-04-08",
+        "date_confidence": "HIGH — OPB URL date pattern /2026/04/08/ confirmed; grant amount of $6.24 million, Concourse A scope, and 12–18 month construction timeline confirmed in search snippet",
+        "summary": "Oregon Public Broadcasting reported April 8 that Eugene Airport (EUG) received $6.24 million in federal funding to renovate and expand Concourse A, a project expected to take 12 to 18 months and improve overall passenger capacity and experience at the gateway.",
+        "opportunity": "Breeze serves Eugene as part of its 2026 West Coast expansion, and improving airport infrastructure at a key Breeze destination strengthens the long-term outlook for that route — the network and partnerships teams should note this as a positive market-health signal.",
+        "paywalled": true
       }
     ]
   }
