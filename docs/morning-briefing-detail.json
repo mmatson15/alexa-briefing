@@ -1,22 +1,23 @@
 {
-  "date": "2026-04-09",
-  "generated_at": "2026-04-09T14:30:00.000Z",
-  "validation_notes": "Today's briefing covers the last 24 hours (April 8–9, 2026). WebFetch returned HTTP 403 for virtually all attempted article URLs — story inclusion was determined using URL date patterns confirmed in search result links, explicit date text in search result metadata, and cross-referencing multiple independent search snippets per story. All stories have confirmed publication dates of April 7–9 via URL date patterns or cross-corroborated search snippet data. The JetBlue/DOT story uses Bloomberg (April 7) as the primary source but is corroborated by Aviation A2Z (April 8 URL confirmed) and other April 8 outlets; the DOT Secretary's public statement on April 7 and follow-up coverage on April 8 constitute genuine new developments beyond the March 25 Semafor original. The Southwest bag fee story (effective April 9) is included as an April 8 story based on widespread confirmed April 8 media coverage. Stories excluded as outside 24-hour window: European airport cyberattack (April 4–6), Allegiant-Sun Country merger (January 2026), FAA radar contracts (January 2026), Avelo restructuring (January 2026), JetBlue merger original story (March 25), Frontier booking pause (January 2026). Stories carried in yesterday's April 8 briefing (Breeze fare sale, Delta bag fee hike original, jet fuel CNBC story, Southwest charger restriction, Delta pilot contract, Southwest Sonoma launch) are excluded from today's briefing to avoid repetition. Stories excluded per Simple Flying rule: all simpleflying.com results omitted.",
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T10:30:00.000Z",
+  "validation_notes": "Today's briefing covers the last 24 hours (April 7–8, 2026). WebFetch returned HTTP 403 for virtually all attempted article URLs — story inclusion was determined using URL date patterns, explicit date text in search result metadata, and cross-referencing multiple independent search snippets per story. The Breeze fare sale date (April 7) was inferred from the sale-end date of April 9, the sale's appearance in April 7 search results, and corroboration across four separate local TV market articles. Stories carried in yesterday's April 7 briefing (Lincoln launch, Easter disruptions, ACSI rankings, TSA/DHS shutdown, Italy fuel rationing) are excluded from today's briefing to avoid repetition. The jet fuel story is included as a new development: yesterday's briefing covered Italian airport rationing; today's CNBC story covers U.S. domestic supply chain concerns, supply shortfall warnings, and specific airline cost disclosures — a distinct update in the same continuing story. Stories excluded as outside 24-hour window: JetBlue merger exploration (Semafor original March 25), Allegiant-Sun Country antitrust clearance (March 16), United bag fee increase (April 2), Avelo restructuring (January 7). Stories excluded per Simple Flying rule: all simpleflying.com results omitted.",
   "breeze": {
-    "narrative": "Breeze had a strong 24-hour news cycle anchored by the launch of service in Lincoln, Nebraska. Local television station Eleven News and KLIN Radio both ran positive coverage of the airline's first nonstop flights from Lincoln Airport — more than one hundred passengers boarded the inaugural Airbus A220 on April eighth, bound for Las Vegas before continuing as a BreezeThru service to Orange County, California. Miss Lincoln Hannah Johnson was among the inaugural passengers, generating exactly the kind of feel-good local press that accelerates brand recognition and loyalty in a new market. There are no negative Breeze stories in national or local circulation this morning.",
+    "narrative": "Breeze had a clean 24-hour cycle with no negative press, operational issues, or social media concerns. The brand earned simultaneous positive local television coverage in four markets — Columbus, Wilmington, Jacksonville, and Myrtle Beach — through a coordinated promotional fare sale with fares starting as low as $45 one way, available through April 9 for travel through May 14. This coverage lands at a favorable moment given that legacy carriers are dominating aviation headlines today for raising bag fees, creating a natural contrast opportunity for the marketing team to activate quickly.",
     "stories": [
       {
-        "headline": "Lincoln's First Breeze Airways Flight to Las Vegas, Orange County Takes Off at LNK Airport",
-        "source": "Eleven News (KSNB / 1011now.com) / KLIN Radio / National Today Las Vegas",
-        "url": "https://www.1011now.com/2026/04/09/lincolns-first-breeze-airways-flight-las-vegas-orange-county-takes-off-lnk-airport/",
+        "headline": "Breeze Airways Runs Multi-Market Promotional Fare Sale: Fares from $45 One Way, Sale Ends April 9",
+        "source": "ABC6 Columbus / WPDE Myrtle Beach / WWAYTV3 Wilmington / Yahoo Travel (Jacksonville)",
+        "url": "https://abc6onyourside.com/news/local/air-carrier-offering-nine-new-fares-from-cmh-through-april-9-breeze-airways-columbus-ohio-charleston-south-carolina-fort-myers-florida-greenville-spartanburg-sc-hartford-connecticut-jacksonville-fla-norfolk-virginia-portland-maine-providence-rhode-island",
         "secondary_urls": [
-          "https://klin.com/2026/04/08/600670/",
-          "https://nationaltoday.com/us/nv/las-vegas/news/2026/04/08/breeze-airways-launches-new-flights-from-las-vegas-to-lincoln/"
+          "https://wpde.com/news/local/breeze-airways-offering-direct-flights-starting-at-54-orlando-florida-airbus-starting-west-plains-fares-tampa-ohio",
+          "https://www.wwaytv3.com/breeze-airways-announces-limited-time-54-fares-from-wilmington/",
+          "https://travel.yahoo.com/news/articles/airline-offering-fares-ranging-45-122507763.html"
         ],
-        "published": "2026-04-09",
-        "date_confidence": "HIGH — 1011now.com URL date pattern /2026/04/09/ confirmed; KLIN.com URL /2026/04/08/ confirmed; National Today Las Vegas URL /2026/04/08/ confirmed; first flight event timing (Wednesday, April 8) corroborated across multiple search snippets including journalstar.com, omaha.com, and nebraskapublicmedia.org; passenger count (100+), aircraft type (A220), and BreezeThru to Orange County confirmed across all sources",
-        "summary": "Breeze Airways launched its first nonstop service from Lincoln Airport (LNK) on April 8, 2026, with over 100 passengers boarding an Airbus A220 for Las Vegas; the aircraft continued to Orange County, California as a BreezeThru service, giving Lincoln travelers access to two West Coast destinations on a single boarding. The twice-weekly route (Wednesdays and Saturdays) is a milestone for the market, which previously had only limited nonstop service.",
-        "opportunity": "Local coverage across Nebraska and Las Vegas has been uniformly positive — the communications team should amplify key media clips, including the Miss Lincoln inaugural-passenger angle, across Breeze social channels to maximize brand awareness and route loyalty in this new market.",
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — Sale end date of April 9 and appearance in April 7 search results strongly indicates April 7 publication; corroborated by four independent local TV market articles all referencing the same sale window; sale fares (Columbus: $59+, Myrtle Beach: $54+, Wilmington: $54+, Jacksonville: $45+) confirmed independently across multiple search snippets",
+        "summary": "Breeze Airways is running a coordinated promotional fare sale across at least four markets: Columbus OH (fares from $59 one way to 9 destinations), Myrtle Beach SC (from $54 to 8 destinations), Wilmington NC (from $54 to 8 destinations), and Jacksonville FL (from $45 to 9 destinations). All sales end April 9 for travel through May 14, 2026.",
+        "opportunity": "With Delta, United, and JetBlue all raising bag fees this week and dominating aviation headlines, Breeze's affordable promotional fares represent an organic contrast marketing moment — a same-day social post or targeted digital campaign highlighting Breeze's fare approach versus legacy carrier fees could reach cost-conscious travelers while the news cycle is focused on airline costs.",
         "paywalled": true
       }
     ]
@@ -24,62 +25,80 @@
   "industry": {
     "stories": [
       {
-        "headline": "Delta Posts Q1 Record Revenue of $14.2B but Net Loss of $289M; CEO Bastian Announces Meaningful Capacity Cuts for Rest of 2026",
-        "source": "CNBC / Delta News Hub / PRNewswire",
-        "url": "https://www.cnbc.com/2026/04/08/delta-air-lines-q1-2026-earnings.html",
+        "headline": "Delta Raises First Checked Bag Fee to $45, Effective April 8, Joining United and JetBlue",
+        "source": "Axios / CBS News / PBS NewsHour",
+        "url": "https://www.axios.com/local/twin-cities/2026/04/07/delta-checked-bag-fees-45-dollars-april-2026-new-prices-iran-war",
         "secondary_urls": [
-          "https://news.delta.com/delta-air-lines-announces-march-quarter-2026-financial-results",
-          "https://www.prnewswire.com/news-releases/delta-air-lines-announces-march-quarter-2026-financial-results-302736586.html",
-          "https://www.aerotime.aero/articles/delta-air-lines-ed-bastian-quarter-results",
-          "https://www.benzinga.com/markets/earnings/26/04/51705692/delta-ceo-says-demand-is-strong-but-fuel-surge-clouds-outlook"
-        ],
-        "published": "2026-04-08",
-        "date_confidence": "HIGH — CNBC URL date pattern /2026/04/08/ confirmed; PRNewswire release number 302736586 with April 8 date confirmed in MarketScreener; Aerotime, GuruFocus, Yahoo Finance, Benzinga, and MSN all independently cover the April 8 earnings call; Q1 revenue of $14.2B, net loss of $289M, Q2 guidance of $1B pretax profit, and fuel cost of $4.30/gallon projection corroborated across all sources",
-        "summary": "Delta Air Lines reported March quarter 2026 revenue of $14.2 billion (a record) but a net loss of $289 million driven by jet fuel costs running $2 billion above plan due to the Middle East conflict; CEO Ed Bastian announced the airline will meaningfully cut capacity growth for the rest of 2026, prioritizing reductions in off-peak, edge-of-day, and red-eye flying, with full-year capacity now expected to be flat or slightly negative.",
-        "opportunity": "Delta's capacity pullback in off-peak and leisure-skewing flying creates potential route openings in markets where Breeze competes or is evaluating entry — network planning should actively monitor Delta schedule changes over the next 30 days for actionable white space.",
-        "paywalled": true
-      },
-      {
-        "headline": "Delta and Southwest Raise Checked Bag Fees by $10, Joining United and JetBlue in Industry-Wide Increase to $45 First Bag",
-        "source": "Fox Business / Deseret News / AZFamily / KPTV",
-        "url": "https://www.foxbusiness.com/lifestyle/delta-southwest-hike-checked-bag-fees-airlines-face-surging-fuel-costs",
-        "secondary_urls": [
-          "https://www.azfamily.com/2026/04/08/delta-southwest-among-latest-airlines-raise-checked-baggage-fees/",
-          "https://www.deseret.com/lifestyle/2026/04/08/delta-raises-checked-bag-fees/",
-          "https://www.kptv.com/2026/04/08/delta-southwest-among-airlines-raising-bag-fees-pdx/",
-          "https://www.cnbc.com/2026/04/07/delta-checked-bag-fees.html"
-        ],
-        "published": "2026-04-08",
-        "date_confidence": "HIGH — AZFamily URL /2026/04/08/ confirmed; Deseret News URL /2026/04/08/ confirmed; KPTV URL /2026/04/08/ confirmed; CNBC original URL /2026/04/07/ confirmed; Southwest effective date of April 9 and Delta effective date of April 8 independently corroborated across Fox Business, Deseret News, AZFamily, KPTV, Men's Journal, TravelAwaits, and Upgraded Points; fee amounts ($45 first bag, $55 second bag) confirmed across all sources",
-        "summary": "Delta (effective April 8) and Southwest (effective April 9) raised their first checked bag fees to $45 and second bag fees to $55, completing an industry-wide $10 fee increase across all four major U.S. carriers — Delta, Southwest, United, and JetBlue — driven by jet fuel costs that have nearly doubled since late February 2026.",
-        "opportunity": "With all four major carriers now charging $45 or more for a first checked bag, Breeze has a clear and timely messaging opportunity — communications should verify Breeze's current bag fee structure and, if it compares favorably, evaluate whether a targeted digital message or social post this week would reach cost-conscious leisure travelers while the story is at peak news cycle velocity.",
-        "paywalled": true
-      },
-      {
-        "headline": "DOT Secretary Duffy Says There Is 'Room' for U.S. Airline Mergers; JetBlue Exploring Sale to United, Alaska, or Southwest",
-        "source": "Bloomberg / Aviation A2Z / Travel Weekly",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-07/dot-secretary-duffy-says-there-s-room-for-us-airline-mergers",
-        "secondary_urls": [
-          "https://aviationa2z.com/index.php/2026/04/08/jetblue-takeover-buzz-grows-as-trump-backs-big-airline-deals/",
-          "https://www.travelweekly.com/Travel-News/Airline-News/DOT-secretary-signals-openness-to-airline-consolidation",
-          "https://liveandletsfly.com/trump-airline-mergers-big-deals/",
-          "https://www.semafor.com/article/03/25/2026/jetblue-explores-potential-merger-partners"
+          "https://www.cbsnews.com/news/delta-bag-check-fee-jet-fuel-iran-war/",
+          "https://www.pbs.org/newshour/economy/as-jet-fuel-costs-soar-delta-joins-growing-list-of-u-s-airlines-raising-checked-bag-fees",
+          "https://www.pressdemocrat.com/2026/04/07/delta-baggage-fees/"
         ],
         "published": "2026-04-07",
-        "date_confidence": "HIGH — Bloomberg URL date pattern /2026-04-07/ confirmed; Aviation A2Z follow-up URL /2026/04/08/ confirmed; Travel Weekly and liveandletsfly.com corroborate April 7–8 timing; Semafor original JetBlue merger story dated March 25 (URL confirmed); DOT Secretary Duffy quotes corroborated across Bloomberg, Reuters (via Investing.com), AeroTime, liveandletsfly.com, One Mile at a Time, and Aviation Source News; JetBlue Q1 loss estimate of $200M+ confirmed in search results",
-        "summary": "Transportation Secretary Sean Duffy stated April 7 that the Trump administration sees room for consolidation in the U.S. airline industry — 'Trump loves to see big deals happen' — intensifying speculation, amplified in follow-up coverage April 8, that JetBlue is actively exploring a sale to United Airlines, Alaska Airlines, or Southwest after projecting first-quarter losses of over $200 million.",
-        "opportunity": "A JetBlue acquisition by any of the three named buyers would significantly shift the competitive landscape in markets where Breeze and JetBlue overlap, including key leisure cities in Florida and the Northeast — leadership and network planning should begin scenario-planning around the most likely deal structures and competitive responses.",
-        "paywalled": true
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed in Axios URL; effective date of April 8 cross-confirmed across CBS News, PBS, Press Democrat, Spectrum News, KBTX, and Newsweek; fee amounts ($45/$55/$200) corroborated across all sources",
+        "summary": "Delta Air Lines announced Tuesday it is raising its first checked bag fee by $10 to $45, the second bag to $55, and the third bag to $200, effective for all domestic and short-haul international tickets purchased April 8 or later. The increase is the third major carrier bag fee hike in two weeks — United raised fees to the same $45 level on April 2 and JetBlue raised fees in late March — all driven by jet fuel costs that have nearly doubled since the Iran conflict began in late February.",
+        "opportunity": "With all three major carriers now charging $45 or more for a first checked bag, Breeze has a clear opening to communicate its own fee structure to cost-conscious travelers — the marketing team should evaluate a rapid-response campaign or targeted social content today while the story is at peak news cycle velocity.",
+        "paywalled": false
       },
       {
-        "headline": "Eugene Airport Receives $6.24 Million Federal Grant to Renovate and Expand Concourse A",
-        "source": "OPB (Oregon Public Broadcasting)",
-        "url": "https://www.opb.org/article/2026/04/08/eugene-airport-renovation-expansion-6-million-dollars/",
-        "published": "2026-04-08",
-        "date_confidence": "HIGH — OPB URL date pattern /2026/04/08/ confirmed; grant amount of $6.24 million, Concourse A scope, and 12–18 month construction timeline confirmed in search snippet",
-        "summary": "Oregon Public Broadcasting reported April 8 that Eugene Airport (EUG) received $6.24 million in federal funding to renovate and expand Concourse A, a project expected to take 12 to 18 months and improve overall passenger capacity and experience at the gateway.",
-        "opportunity": "Breeze serves Eugene as part of its 2026 West Coast expansion, and improving airport infrastructure at a key Breeze destination strengthens the long-term outlook for that route — the network and partnerships teams should note this as a positive market-health signal.",
-        "paywalled": true
+        "headline": "Iran War Drives Jet Fuel to $4.88/Gallon; Supply Concerns Mount as Strait of Hormuz Closures Persist",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/iran-war-jet-fuel-airlines.html",
+        "secondary_urls": [
+          "https://skift.com/2026/04/07/airlines-say-demand-is-strong-is-that-enough-to-offset-added-fuel-costs/",
+          "https://www.pymnts.com/travel-payments/2026/delta-hikes-baggage-fees-as-jet-fuel-costs-jump-132percent"
+        ],
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed in CNBC URL; price figure of $4.88/gallon and 132% increase corroborated across PYMNTS, Axios, and multiple search snippets; United CEO $400M cost estimate independently verified in search results",
+        "summary": "CNBC reported Tuesday that jet fuel has surged 132 percent since the U.S.-Israel attack on Iran on February 28, reaching $4.88 per gallon ($209 per barrel), with the effective closure of the Strait of Hormuz choking supply of both crude and refined products. United CEO Scott Kirby estimated the conflict has already added approximately $400 million to United's operating costs, and analysts are warning the supply crunch could force airlines to cut flights, particularly on overseas routes.",
+        "opportunity": "Breeze's Airbus A220 fleet burns approximately 25 percent less fuel than older narrowbody aircraft types, making Breeze's cost structure meaningfully more resilient than legacy carriers in the current fuel environment — this should be surfaced explicitly in any upcoming CEO media appearances, investor conversations, or route planning discussions.",
+        "paywalled": false
+      },
+      {
+        "headline": "Airlines Say Demand Is Still Strong — Is That Enough to Offset Billions in Added Fuel Costs?",
+        "source": "Skift",
+        "url": "https://skift.com/2026/04/07/airlines-say-demand-is-strong-is-that-enough-to-offset-added-fuel-costs/",
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed; article appeared in multiple search result sets for April 7 queries",
+        "summary": "Skift reported Tuesday that U.S. airline passenger demand remains resilient despite the fuel cost surge, with leisure travel holding up particularly well — but analysts warn that sustained jet fuel prices near $5 per gallon could erase most or all of industry profits in 2026, particularly if demand softens even modestly.",
+        "opportunity": "Strong leisure demand supports Breeze's continued route expansion strategy and validates the secondary-market network thesis; however, finance and network planning should stress-test Q3 and Q4 margin assumptions against a scenario where fuel costs remain elevated through summer peak — the Skift analysis provides a useful framework for that exercise.",
+        "paywalled": false
+      },
+      {
+        "headline": "Southwest Airlines Limits Passengers to One Portable Charger Per Flight, Effective April 20",
+        "source": "KTLA / National Today / TravelPulse",
+        "url": "https://ktla.com/news/consumer-business/southwest-airlines-announces-new-limit-on-portable-chargers/",
+        "secondary_urls": [
+          "https://nationaltoday.com/us/dc/washington/news/2026/04/07/southwest-airlines-limits-passengers-to-one-portable-charger/",
+          "https://www.travelpulse.com/news/airlines-airports/southwest-airlines-announces-new-restrictions-for-portable-chargers-on-flights"
+        ],
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — National Today URL date pattern /2026/04/07/ confirmed; effective date of April 20 cross-confirmed across KTLA, TravelPulse, NewsNation, NTD, Yahoo News, and SRN News; announcement confirmed as formal Southwest policy change across all sources",
+        "summary": "Southwest Airlines announced Tuesday it will limit passengers to one portable lithium charger per flight starting April 20, banning power banks from overhead bin storage and in-seat charging outlets, citing lithium battery fire risk. The change aligns with — and in one-charger limit is actually stricter than — the International Civil Aviation Organization's recent guidance of two portable chargers per passenger issued last month.",
+        "opportunity": "Breeze communications should verify that our portable device policy is current and consistent with ICAO guidance, and prepare a brief holding statement ahead of any media outreach that surveys airlines on their battery safety posture in the wake of the Southwest announcement.",
+        "paywalled": false
+      },
+      {
+        "headline": "Delta Air Lines Pilots Push for New Contract Ahead of December 2026 Amendable Date",
+        "source": "Aviation A2Z",
+        "url": "https://aviationa2z.com/index.php/2026/04/07/delta-air-lines-pilots-push-for-new-contract/",
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed; content corroborated by multiple search snippets referencing ALPA, December 2026 amendable date, and Section 6 negotiations reopened in early 2026",
+        "summary": "Aviation A2Z reported Tuesday that Delta Air Lines pilots have reopened Section 6 labor contract negotiations ahead of their current contract's December 31, 2026 amendable date, with ALPA pushing for a quick deal while Delta's profits remain high and the union's pay gap with competitors has narrowed significantly. The union is seeking to close negotiations before Delta's leverage window shrinks heading into 2027.",
+        "opportunity": "A significant Delta pilot wage settlement could reset industry labor pay benchmarks across U.S. carriers and create upward pressure on pilot compensation industry-wide — Breeze's people, finance, and workforce planning teams should track this negotiation closely as they build 2027 operational cost assumptions.",
+        "paywalled": false
+      },
+      {
+        "headline": "Southwest Airlines Launches Inaugural Service to Sonoma County Airport with Four Nonstop Routes",
+        "source": "Press Democrat / KION Central Coast",
+        "url": "https://www.pressdemocrat.com/2026/04/07/sonoma-county-airport-welcomes-first-southwest-airlines-flight/",
+        "secondary_urls": [
+          "https://kioncentralcoast.com/news/2026/04/07/first-southwest-airlines-flight-lands-at-santa-rosa-airport/"
+        ],
+        "published": "2026-04-07",
+        "date_confidence": "HIGH — URL date pattern /2026/04/07/ confirmed in both Press Democrat and KION URLs; inaugural flight event and four-route launch (Burbank, San Diego, Las Vegas, Denver) corroborated across both sources",
+        "summary": "Southwest Airlines completed its inaugural flight to Charles M. Schulz Sonoma County Airport in Santa Rosa, California on Tuesday, launching nonstop service to Burbank, San Diego, Las Vegas, and Denver. Southwest also introduced a new Sip and Ship program allowing passengers to check one case of wine at no cost from select West Coast departure points, targeted at the region's wine tourism market.",
+        "opportunity": "Southwest's continued entry into smaller, leisure-focused secondary airports mirrors Breeze's own network strategy and signals intensifying competition in non-hub leisure markets — Breeze network planning should track Southwest's secondary airport expansion for both competitive overlap and opportunities to differentiate on routes or frequency where Southwest has limited presence.",
+        "paywalled": false
       }
     ]
   }
