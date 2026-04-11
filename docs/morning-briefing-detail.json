@@ -1,85 +1,67 @@
 {
-  "date": "2026-04-09",
-  "generated_at": "2026-04-09T14:30:00.000Z",
-  "validation_notes": "Today's briefing covers the last 24 hours (April 8–9, 2026). WebFetch returned HTTP 403 for virtually all attempted article URLs — story inclusion was determined using URL date patterns confirmed in search result links, explicit date text in search result metadata, and cross-referencing multiple independent search snippets per story. All stories have confirmed publication dates of April 7–9 via URL date patterns or cross-corroborated search snippet data. The JetBlue/DOT story uses Bloomberg (April 7) as the primary source but is corroborated by Aviation A2Z (April 8 URL confirmed) and other April 8 outlets; the DOT Secretary's public statement on April 7 and follow-up coverage on April 8 constitute genuine new developments beyond the March 25 Semafor original. The Southwest bag fee story (effective April 9) is included as an April 8 story based on widespread confirmed April 8 media coverage. Stories excluded as outside 24-hour window: European airport cyberattack (April 4–6), Allegiant-Sun Country merger (January 2026), FAA radar contracts (January 2026), Avelo restructuring (January 2026), JetBlue merger original story (March 25), Frontier booking pause (January 2026). Stories carried in yesterday's April 8 briefing (Breeze fare sale, Delta bag fee hike original, jet fuel CNBC story, Southwest charger restriction, Delta pilot contract, Southwest Sonoma launch) are excluded from today's briefing to avoid repetition. Stories excluded per Simple Flying rule: all simpleflying.com results omitted.",
+  "date": "2026-04-11",
+  "generated_at": "2026-04-11T12:00:00.000Z",
+  "validation_notes": "Today's briefing covers the last 24 hours (April 10–11, 2026). WebFetch returned HTTP 403 for virtually all attempted article URLs — story inclusion was determined using URL date patterns confirmed in search result links, explicit date text in search result metadata, and cross-referencing multiple independent search snippets per story. Stories already covered in the April 9 briefing (Delta Q1 earnings, Delta/Southwest bag fee hikes, JetBlue merger/DOT Secretary Duffy, Eugene airport grant) are excluded from today's briefing to avoid repetition. The Middle East ceasefire story (ceasefire announced April 8) is included because the specific airline operational resumptions — Qatar Airways confirming 109 flights April 11, Iraq/Syria/Bahrain airspace reopenings — are new April 10 developments distinct from the ceasefire announcement itself. The Alaska/American bag fee story is new since the April 9 briefing, which covered Delta and Southwest; American (effective April 9) and Alaska (effective April 10-11) are the final two major carriers completing the sweep. The FAA ATC hiring campaign is a new April 10 announcement confirmed by WTOC's /2026/04/10/ URL. The Alaska-Hawaiian integration story references the April 22 milestone; the combined app launch was confirmed by AirlineGeeks on April 1, and Hawaii media (KHON2) reporting on the April 22 cutover is recent April 2026 coverage. No Breeze-specific news was found within the 24-hour window despite multiple targeted searches — the Lincoln inaugural story played out April 8-9 and is already covered. Stories excluded as outside 24-hour window or already covered: Lincoln inaugural (April 8-9, covered April 9 briefing), Tampa/Breeze Costa Rica announcement (March 17), FAA eVTOL program (March 9), American/Google contrail reduction (March 19), JetBlue merger original (March 25, covered April 9 briefing), Frontier fleet contraction (March 11), Delta Q1 earnings (April 8, covered April 9 briefing), United Airlines Israel suspension (April 4), Allegiant-Sun Country merger (January 2026). Stories excluded per Simple Flying rule: all simpleflying.com results omitted.",
   "breeze": {
-    "narrative": "Breeze had a strong 24-hour news cycle anchored by the launch of service in Lincoln, Nebraska. Local television station Eleven News and KLIN Radio both ran positive coverage of the airline's first nonstop flights from Lincoln Airport — more than one hundred passengers boarded the inaugural Airbus A220 on April eighth, bound for Las Vegas before continuing as a BreezeThru service to Orange County, California. Miss Lincoln Hannah Johnson was among the inaugural passengers, generating exactly the kind of feel-good local press that accelerates brand recognition and loyalty in a new market. There are no negative Breeze stories in national or local circulation this morning.",
-    "stories": [
-      {
-        "headline": "Lincoln's First Breeze Airways Flight to Las Vegas, Orange County Takes Off at LNK Airport",
-        "source": "Eleven News (KSNB / 1011now.com) / KLIN Radio / National Today Las Vegas",
-        "url": "https://www.1011now.com/2026/04/09/lincolns-first-breeze-airways-flight-las-vegas-orange-county-takes-off-lnk-airport/",
-        "secondary_urls": [
-          "https://klin.com/2026/04/08/600670/",
-          "https://nationaltoday.com/us/nv/las-vegas/news/2026/04/08/breeze-airways-launches-new-flights-from-las-vegas-to-lincoln/"
-        ],
-        "published": "2026-04-09",
-        "date_confidence": "HIGH — 1011now.com URL date pattern /2026/04/09/ confirmed; KLIN.com URL /2026/04/08/ confirmed; National Today Las Vegas URL /2026/04/08/ confirmed; first flight event timing (Wednesday, April 8) corroborated across multiple search snippets including journalstar.com, omaha.com, and nebraskapublicmedia.org; passenger count (100+), aircraft type (A220), and BreezeThru to Orange County confirmed across all sources",
-        "summary": "Breeze Airways launched its first nonstop service from Lincoln Airport (LNK) on April 8, 2026, with over 100 passengers boarding an Airbus A220 for Las Vegas; the aircraft continued to Orange County, California as a BreezeThru service, giving Lincoln travelers access to two West Coast destinations on a single boarding. The twice-weekly route (Wednesdays and Saturdays) is a milestone for the market, which previously had only limited nonstop service.",
-        "opportunity": "Local coverage across Nebraska and Las Vegas has been uniformly positive — the communications team should amplify key media clips, including the Miss Lincoln inaugural-passenger angle, across Breeze social channels to maximize brand awareness and route loyalty in this new market.",
-        "paywalled": true
-      }
-    ]
+    "narrative": "No new Breeze coverage in the last 24 hours. Lincoln Airport's inaugural Breeze flights to Las Vegas and Orange County launched April 8th and were covered extensively through April 9th — that story has fully played out for now. Breeze remains in active expansion mode: the Raleigh-Durham crew base is operational, international service to Montego Bay and Punta Cana is live from RDU, and new West Coast routes including Arcata, Eugene, Redmond, and Pasco are now flying. There is no negative Breeze coverage in circulation. With the industry's baggage fee sweep now complete across all major carriers, communications has a potential proactive outreach window to reinforce Breeze's value positioning before the story loses momentum.",
+    "stories": []
   },
   "industry": {
     "stories": [
       {
-        "headline": "Delta Posts Q1 Record Revenue of $14.2B but Net Loss of $289M; CEO Bastian Announces Meaningful Capacity Cuts for Rest of 2026",
-        "source": "CNBC / Delta News Hub / PRNewswire",
-        "url": "https://www.cnbc.com/2026/04/08/delta-air-lines-q1-2026-earnings.html",
+        "headline": "Qatar Airways Confirms 109 Flights Saturday as Middle East Airspace Reopens After Iran-U.S. Ceasefire",
+        "source": "LoyaltyLobby / The National / nation.com.pk",
+        "url": "https://loyaltylobby.com/2026/04/10/qatar-airways-109-confirmed-passenger-flights-ex-doha-for-saturday-april-11-2026-120-destinations-by-june-15/",
         "secondary_urls": [
-          "https://news.delta.com/delta-air-lines-announces-march-quarter-2026-financial-results",
-          "https://www.prnewswire.com/news-releases/delta-air-lines-announces-march-quarter-2026-financial-results-302736586.html",
-          "https://www.aerotime.aero/articles/delta-air-lines-ed-bastian-quarter-results",
-          "https://www.benzinga.com/markets/earnings/26/04/51705692/delta-ceo-says-demand-is-strong-but-fuel-surge-clouds-outlook"
+          "https://www.thenationalnews.com/travel/2026/04/09/iran-war-middle-east-flight-status/",
+          "https://www.nation.com.pk/10-Apr-2026/flight-operations-resume-us-iran-ceasefire"
         ],
-        "published": "2026-04-08",
-        "date_confidence": "HIGH — CNBC URL date pattern /2026/04/08/ confirmed; PRNewswire release number 302736586 with April 8 date confirmed in MarketScreener; Aerotime, GuruFocus, Yahoo Finance, Benzinga, and MSN all independently cover the April 8 earnings call; Q1 revenue of $14.2B, net loss of $289M, Q2 guidance of $1B pretax profit, and fuel cost of $4.30/gallon projection corroborated across all sources",
-        "summary": "Delta Air Lines reported March quarter 2026 revenue of $14.2 billion (a record) but a net loss of $289 million driven by jet fuel costs running $2 billion above plan due to the Middle East conflict; CEO Ed Bastian announced the airline will meaningfully cut capacity growth for the rest of 2026, prioritizing reductions in off-peak, edge-of-day, and red-eye flying, with full-year capacity now expected to be flat or slightly negative.",
-        "opportunity": "Delta's capacity pullback in off-peak and leisure-skewing flying creates potential route openings in markets where Breeze competes or is evaluating entry — network planning should actively monitor Delta schedule changes over the next 30 days for actionable white space.",
-        "paywalled": true
+        "published": "2026-04-10",
+        "date_confidence": "HIGH — LoyaltyLobby URL date pattern /2026/04/10/ confirmed; nation.com.pk URL /10-Apr-2026/ confirmed; The National article dated /2026/04/09/; Qatar Airways 109 flights, 120+ destinations by mid-June target, Iraq/Syria/Bahrain airspace reopenings all corroborated across multiple search snippets; Iran-U.S. ceasefire announcement date of April 8 confirmed across Al Jazeera, CNBC, Time, NPR",
+        "summary": "Qatar Airways confirmed 109 passenger departures from Doha on Saturday April 11 as Middle East airspace gradually reopens following the Iran-U.S. ceasefire announced April 8th; Iraq, Syria, and Bahrain have reopened their airspace, and Gulf carriers are targeting 120-plus destinations by mid-June, though airlines are moving cautiously given the ceasefire's two-week window.",
+        "opportunity": "If the ceasefire holds and Strait of Hormuz restrictions ease, jet fuel prices — currently near $209/barrel, nearly double pre-war levels — could begin declining materially, improving Breeze's Q2-Q3 unit cost outlook; finance and revenue management should begin scenario modeling on the fuel price impact to Breeze's summer flying economics.",
+        "paywalled": false
       },
       {
-        "headline": "Delta and Southwest Raise Checked Bag Fees by $10, Joining United and JetBlue in Industry-Wide Increase to $45 First Bag",
-        "source": "Fox Business / Deseret News / AZFamily / KPTV",
-        "url": "https://www.foxbusiness.com/lifestyle/delta-southwest-hike-checked-bag-fees-airlines-face-surging-fuel-costs",
+        "headline": "American and Alaska Airlines Complete Industry-Wide Baggage Fee Sweep; All Major U.S. Carriers Now at $45–$50 for First Bag",
+        "source": "TravelWise / Rolling Out / KMXT",
+        "url": "https://www.travelwiseway.com/section-news/news-airline-bag-fees-rise-as-american-updates-basic-economy-rules-11-04-2026.html",
         "secondary_urls": [
-          "https://www.azfamily.com/2026/04/08/delta-southwest-among-latest-airlines-raise-checked-baggage-fees/",
-          "https://www.deseret.com/lifestyle/2026/04/08/delta-raises-checked-bag-fees/",
-          "https://www.kptv.com/2026/04/08/delta-southwest-among-airlines-raising-bag-fees-pdx/",
-          "https://www.cnbc.com/2026/04/07/delta-checked-bag-fees.html"
+          "https://rollingout.com/2026/04/11/airlines-raise-checked-bag-fees-2026/",
+          "https://www.kmxt.org/alaska-statewide-news/2026-04-10/alaska-airlines-increases-baggage-fees"
         ],
-        "published": "2026-04-08",
-        "date_confidence": "HIGH — AZFamily URL /2026/04/08/ confirmed; Deseret News URL /2026/04/08/ confirmed; KPTV URL /2026/04/08/ confirmed; CNBC original URL /2026/04/07/ confirmed; Southwest effective date of April 9 and Delta effective date of April 8 independently corroborated across Fox Business, Deseret News, AZFamily, KPTV, Men's Journal, TravelAwaits, and Upgraded Points; fee amounts ($45 first bag, $55 second bag) confirmed across all sources",
-        "summary": "Delta (effective April 8) and Southwest (effective April 9) raised their first checked bag fees to $45 and second bag fees to $55, completing an industry-wide $10 fee increase across all four major U.S. carriers — Delta, Southwest, United, and JetBlue — driven by jet fuel costs that have nearly doubled since late February 2026.",
-        "opportunity": "With all four major carriers now charging $45 or more for a first checked bag, Breeze has a clear and timely messaging opportunity — communications should verify Breeze's current bag fee structure and, if it compares favorably, evaluate whether a targeted digital message or social post this week would reach cost-conscious leisure travelers while the story is at peak news cycle velocity.",
-        "paywalled": true
+        "published": "2026-04-11",
+        "date_confidence": "HIGH — TravelWise URL date pattern 11-04-2026 confirmed (April 11); Rolling Out URL /2026/04/11/ confirmed; KMXT URL /2026-04-10/ confirmed (April 10); American Airlines first-bag fee of $50 effective April 9 corroborated across nationaltoday.com /2026/04/09/, The Points Guy, Upgraded Points, Philadelphia Inquirer /2026/04/10/; Alaska first-bag fee of $45 effective April 10-11 corroborated across KMXT, Rolling Out, and multiple search snippets; prior carriers (Delta $45, Southwest $45, United, JetBlue) covered in April 9 briefing; Iran war jet fuel surge to ~$209/barrel corroborated across ABC7 NY, The Hill, Skift, Rolling Stone, CNBC",
+        "summary": "American Airlines raised its first checked bag fee to $50 effective April 9th and Alaska Airlines raised its first-bag fee to $45 effective April 10-11, completing an industry-wide sweep in which every major U.S. carrier — Delta, Southwest, United, JetBlue, American, and Alaska — has raised checked baggage fees this month, all citing Iran war-driven jet fuel prices that have surged nearly 150 percent since late February.",
+        "opportunity": "Today marks the day Alaska completes the industry-wide fee sweep — Breeze's communications and marketing team should evaluate immediately whether a proactive message about Breeze's bag pricing creates a meaningful earned media and direct booking opportunity, since this window will close quickly after this weekend.",
+        "paywalled": false
       },
       {
-        "headline": "DOT Secretary Duffy Says There Is 'Room' for U.S. Airline Mergers; JetBlue Exploring Sale to United, Alaska, or Southwest",
-        "source": "Bloomberg / Aviation A2Z / Travel Weekly",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-07/dot-secretary-duffy-says-there-s-room-for-us-airline-mergers",
+        "headline": "FAA and DOT Launch Gaming-Community ATC Hiring Campaign; Window Opens April 17 for 2,300+ Controller Trainees",
+        "source": "WTOC (Savannah) / FAA.gov",
+        "url": "https://www.wtoc.com/2026/04/10/faa-unveils-new-campaign-with-focus-gaming-targeting-new-generation-air-traffic-controllers/",
         "secondary_urls": [
-          "https://aviationa2z.com/index.php/2026/04/08/jetblue-takeover-buzz-grows-as-trump-backs-big-airline-deals/",
-          "https://www.travelweekly.com/Travel-News/Airline-News/DOT-secretary-signals-openness-to-airline-consolidation",
-          "https://liveandletsfly.com/trump-airline-mergers-big-deals/",
-          "https://www.semafor.com/article/03/25/2026/jetblue-explores-potential-merger-partners"
+          "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-and-federal-aviation-administration-unveil"
         ],
-        "published": "2026-04-07",
-        "date_confidence": "HIGH — Bloomberg URL date pattern /2026-04-07/ confirmed; Aviation A2Z follow-up URL /2026/04/08/ confirmed; Travel Weekly and liveandletsfly.com corroborate April 7–8 timing; Semafor original JetBlue merger story dated March 25 (URL confirmed); DOT Secretary Duffy quotes corroborated across Bloomberg, Reuters (via Investing.com), AeroTime, liveandletsfly.com, One Mile at a Time, and Aviation Source News; JetBlue Q1 loss estimate of $200M+ confirmed in search results",
-        "summary": "Transportation Secretary Sean Duffy stated April 7 that the Trump administration sees room for consolidation in the U.S. airline industry — 'Trump loves to see big deals happen' — intensifying speculation, amplified in follow-up coverage April 8, that JetBlue is actively exploring a sale to United Airlines, Alaska Airlines, or Southwest after projecting first-quarter losses of over $200 million.",
-        "opportunity": "A JetBlue acquisition by any of the three named buyers would significantly shift the competitive landscape in markets where Breeze and JetBlue overlap, including key leisure cities in Florida and the Northeast — leadership and network planning should begin scenario-planning around the most likely deal structures and competitive responses.",
-        "paywalled": true
+        "published": "2026-04-10",
+        "date_confidence": "HIGH — WTOC URL date pattern /2026/04/10/ confirmed; FAA newsroom page corroborated; hiring window opening April 17 confirmed across multiple search snippets; 2,300-plus trainee controller goal confirmed; gaming-community campaign focus confirmed across WTOC and nationaltoday.com /2026/04/06/ (earlier related coverage of proposal); ~1,200 controllers already onboarded toward FY2026 goal confirmed in search metadata",
+        "summary": "Transportation Secretary Sean Duffy and the FAA unveiled a gaming-community-focused air traffic controller recruitment campaign on April 10, with the annual hiring window opening April 17 and a goal of filling more than 2,300 new trainee controller positions in FY2026 to address controller staffing shortfalls that have contributed to systemic delays across the National Airspace System.",
+        "opportunity": "Breeze's point-to-point model and secondary-airport network is particularly exposed to ATC staffing gaps — operations leadership should monitor which airports are prioritized in this hiring class and flag any Breeze network airports that receive significant new controller staffing, as that is a positive schedule reliability signal.",
+        "paywalled": false
       },
       {
-        "headline": "Eugene Airport Receives $6.24 Million Federal Grant to Renovate and Expand Concourse A",
-        "source": "OPB (Oregon Public Broadcasting)",
-        "url": "https://www.opb.org/article/2026/04/08/eugene-airport-renovation-expansion-6-million-dollars/",
-        "published": "2026-04-08",
-        "date_confidence": "HIGH — OPB URL date pattern /2026/04/08/ confirmed; grant amount of $6.24 million, Concourse A scope, and 12–18 month construction timeline confirmed in search snippet",
-        "summary": "Oregon Public Broadcasting reported April 8 that Eugene Airport (EUG) received $6.24 million in federal funding to renovate and expand Concourse A, a project expected to take 12 to 18 months and improve overall passenger capacity and experience at the gateway.",
-        "opportunity": "Breeze serves Eugene as part of its 2026 West Coast expansion, and improving airport infrastructure at a key Breeze destination strengthens the long-term outlook for that route — the network and partnerships teams should note this as a positive market-health signal.",
-        "paywalled": true
+        "headline": "Alaska-Hawaiian Full Passenger Service System Integration Completes April 22, Creating Unified Booking Platform",
+        "source": "KHON2 (Hawaii) / AirlineGeeks",
+        "url": "https://www.khon2.com/local-news/hawaiian-alaska-air-integration/",
+        "secondary_urls": [
+          "https://airlinegeeks.com/2026/04/01/alaska-launches-combined-alaska-hawaiian-app/",
+          "https://news.alaskaair.com/guest-experience/alaska-airlines-and-hawaiian-airlines-app/"
+        ],
+        "published": "2026-04",
+        "date_confidence": "MEDIUM — AirlineGeeks URL /2026/04/01/ confirmed for combined app launch story; KHON2 article about April 22 PSS integration is recent April 2026 coverage but exact publication date not confirmed via URL pattern (no date in URL); Alaska Airlines official news release corroborates April 22 cutover date; April 22 milestone date confirmed across multiple sources including alohastatedaily.com /2026/03/30/ and KHON2",
+        "summary": "Alaska Airlines and Hawaiian Airlines will complete their full passenger service system integration on April 22, 2026, enabling unified booking, check-in, and travel management across both carriers on a single platform; the combined mobile app launched April 1, and the April 22 cutover marks the operational culmination of Alaska's late-2024 acquisition of Hawaiian Airlines.",
+        "opportunity": "Network planning and revenue management should brief leadership on whether the newly unified Alaska-Hawaiian network — covering Las Vegas, Orange County, Seattle, and the entire Pacific — creates material new competitive pressure on any current or planned Breeze routes, and whether any underserved city-pair gaps in the combined network represent Breeze expansion opportunities.",
+        "paywalled": false
       }
     ]
   }
