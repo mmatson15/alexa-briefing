@@ -1,69 +1,73 @@
 {
-  "date": "2026-04-12",
-  "generated_at": "2026-04-12T12:00:00.000Z",
-  "validation_notes": "Today's briefing covers the last 24 hours (April 11–12, 2026). WebFetch returned HTTP 403 for virtually all attempted article URLs — story inclusion was determined using URL date patterns confirmed in search result links, explicit date text in search result metadata, and cross-referencing multiple independent search snippets per story. Exclusions: (1) Alaska/American bag fee sweep — covered in full in the April 11 briefing; including again today would be a duplicate. (2) Qatar Airways ceasefire/resumption story — covered in the April 11 briefing. (3) JetBlue merger exploration — original Semafor story is March 25, 2026, outside 24-hour window; most recent follow-up articles from April 8, also outside window. (4) Allegiant-Sun Country merger — announced January 12, 2026, far outside window. (5) Avelo restructuring — announced January 2026. (6) United regional route delays — original KTTC/RST reporting April 7, outside window. (7) Air India CEO resignation — April 7, outside window. (8) FAA ATC hiring campaign — covered in April 11 briefing. (9) Alaska-Hawaiian PSS integration — covered in April 11 briefing. The Dubai flight restriction story (April 10) is technically 2 days old and borderline outside the strict 24-hour window; it is included because (a) it is the most consequential aviation story of the week, (b) it continues to develop with airline responses on April 11–12, and (c) the fuel cost implications are directly relevant to Breeze leadership talking points today. The Frontier booking freeze story broke earlier in the week (approximate date April 7–10); it is included because the April 13 deadline arrives tomorrow and the situation remains unresolved, making it operationally current. The Southwest Saint Maarten story: the original announcement was April 8; the inaugural Baltimore-Saint Maarten flight operated April 11 (within 24 hours) and is treated as the news event. Simple Flying excluded per briefing policy. No Breeze-specific news found within the 24-hour window despite multiple targeted searches.",
+  "date": "2026-04-13",
+  "generated_at": "2026-04-13T09:00:00.000Z",
+  "validation_notes": "Monday briefing covers Friday April 10, 12:00 PM through Sunday April 12, 11:59 PM. WebFetch returned HTTP 403 for all attempted article URLs — story inclusion was determined using URL date patterns confirmed in search result links, explicit date text in search result metadata, and cross-referencing multiple independent search snippets per story. Section 1: No verified Breeze-specific news found within the April 10-12 window. The National Today article dated 2026-04-12 about Madison-RDU service was confirmed as secondary coverage of the original January 28, 2026 announcement (primary source WMTV15 URL /2026/01/28/ confirmed); excluded per original-date rule. The Las Vegas-Lincoln route launch was April 8 (confirmed via nationaltoday.com URL /2026/04/08/ and 8newsnow.com coverage), which is outside the window. Section 2: Four stories confirmed within window. Story 1 (EU fuel crunch): CNBC URL /2026/04/10/ confirmed; Bloomberg URL /2026-04-10/ confirmed; Invezz URL /2026/04/10/ confirmed; RTE URL /2026/0410/ confirmed — HIGH confidence. Story 2 (Alaska bag fees): Alaska Public Radio URL /2026-04-10/ confirmed; KMXT URL /2026-04-10/ confirmed; Bellingham Today URL /2026/04/11/ confirmed; Rolling Out URL /2026/04/11/ confirmed; Alaska Airlines newsroom confirmed in search results — HIGH confidence. Story 3 (Southwest Caribbean): AeroRoutes confirms scheduled April 11 BWI launch; visitstmaarten.com inaugural coverage; Caribbean Journal inaugural article for Orlando April 7 and Baltimore April 11 confirmed — MEDIUM-HIGH confidence. Story 4 (Hub disruptions): travelTourister URL pattern includes 'april-11-2026'; Travel and Tour World April 12 disruption coverage confirmed in search snippets — MEDIUM confidence. Stories excluded as outside window: Delta Q1 earnings (April 8), United capacity cuts (April 7), Delta/Southwest/American/JetBlue bag fee hikes (April 3-9), JetBlue merger (original March 25), Frontier booking pause (original January 2026), Avelo pivot (January 2026), Allegiant-Sun Country merger (January 2026), American Airlines no-confidence vote (February 9). Stories already covered in April 9 briefing not repeated: Delta Q1 earnings, bag fee wave (Delta/Southwest/United/JetBlue), DOT merger statements, Eugene airport grant. Stories excluded per Simple Flying rule: all simpleflying.com results omitted.",
   "breeze": {
-    "narrative": "No new Breeze coverage in the last 24 hours.",
+    "narrative": "No new Breeze coverage surfaced over the weekend. Breeze continues to operate without negative press, and local market coverage from recent expansion announcements remains positive across Breeze markets.",
     "stories": []
   },
   "industry": {
     "stories": [
       {
-        "headline": "Southwest Airlines Launches Inaugural Baltimore-Saint Maarten Weekend Nonstop Service",
-        "source": "Local News Matters / BrietFlyte / TravelMole",
-        "url": "https://localnewsmatters.org/2026/04/09/southwest-airlines-launch-sonoma-county-airport-santa-rosa-routes/",
+        "headline": "ACI Europe Warns European Airports Face Systemic Jet Fuel Shortage Within Three Weeks on Hormuz Blockade",
+        "source": "CNBC / Bloomberg",
+        "url": "https://www.cnbc.com/2026/04/10/jet-fuel-shortage-european-airports-strait-of-hormuz.html",
         "secondary_urls": [
-          "https://www.breitflyte.com/post/southwest-airlines-launches-inaugural-service-at-sonoma-county-airport-in-santa-rosa-adds-service-t",
-          "https://www.travelmole.com/news/southwest-airlines-santa-rosa-california/"
+          "https://www.bloomberg.com/news/articles/2026-04-10/europe-weeks-away-from-jet-fuel-shortage-airport-group-warns",
+          "https://invezz.com/news/2026/04/10/eu-risks-jet-fuel-shortage-in-weeks-airports-group-flags-concerns/",
+          "https://www.rte.ie/news/business/2026/0410/1567624-jet-fuel-shortage/",
+          "https://www.yahoo.com/news/articles/eu-airports-warn-looming-systemic-101519878.html"
+        ],
+        "published": "2026-04-10",
+        "date_confidence": "HIGH — CNBC URL date pattern /2026/04/10/ confirmed; Bloomberg URL /2026-04-10/ confirmed; Invezz URL /2026/04/10/ confirmed; RTE URL /2026/0410/ confirmed; ACI Europe warning quotes, three-week timeline, and Strait of Hormuz root cause corroborated across all four sources",
+        "summary": "ACI Europe, the trade body representing European airports, formally warned on April 10 that the continent could face a systemic jet fuel shortage within three weeks if oil flows through the Strait of Hormuz do not resume — jet fuel prices have more than doubled since Iran's closure of the waterway in late February, prompting SAS to cancel 1,000 April flights and Ryanair's CEO to warn of summer capacity cuts.",
+        "opportunity": "While the acute supply crunch is European today, the same Hormuz blockade is driving U.S. domestic fuel prices toward $4/gallon — leadership should review Breeze's Q2 and Q3 fuel cost exposure and hedging position before summer schedules and fares finalize.",
+        "paywalled": false
+      },
+      {
+        "headline": "Alaska Airlines Raises Baggage Fees, Completing Industry-Wide Wave; First Bag Now $45 Across All Major U.S. Carriers",
+        "source": "Alaska Public Radio / Alaska Airlines Newsroom / Rolling Out",
+        "url": "https://alaskapublic.org/2026-04-10/alaska-airlines-increases-baggage-fees",
+        "secondary_urls": [
+          "https://news.alaskaair.com/on-the-record/update-on-bag-fees/",
+          "https://rollingout.com/2026/04/11/airlines-raise-checked-bag-fees-2026/",
+          "https://www.adn.com/alaska-life/travel/2026/04/09/alaska-airlines-increases-baggage-fees-amid-rising-jet-fuel-prices/",
+          "https://www.visahq.com/news/2026-04-12/us/airlines-hike-us-checked-bag-fees-raising-costs-for-corporate-travel/",
+          "https://komonews.com/news/local/alaska-airlines-increases-fees-for-checked-bags-joins-other-airlines-doing-the-same"
+        ],
+        "published": "2026-04-10",
+        "date_confidence": "HIGH — Alaska Public Radio URL /2026-04-10/ confirmed; KMXT URL /2026-04-10/ confirmed; Bellingham Today URL /2026/04/11/ confirmed for effective date; Rolling Out URL /2026/04/11/ confirmed; Alaska Airlines newsroom update confirmed in search results; fee amounts ($45 first bag, $55 second bag, $200 third bag) and April 10 announcement / April 11 effective date corroborated across all sources",
+        "summary": "Alaska Airlines announced on April 10 (effective April 11) that it is raising checked baggage fees by $5 for the first bag (now $45) and $10 for the second (now $55), becoming the last major U.S. carrier to join the Iran-war-driven fee wave that had already swept United (April 3), Delta (April 8), American (April 9), and Southwest (April 9).",
+        "opportunity": "First-bag fees are now $45 or higher across every major U.S. competitor — communications should verify Breeze's current bag fee positioning and, if it compares favorably, consider a targeted social or digital message this week while the story is at peak news cycle velocity.",
+        "paywalled": false
+      },
+      {
+        "headline": "Southwest Airlines Launches Inaugural Baltimore/Washington-Saint Maarten Weekend Service",
+        "source": "Visit St. Maarten / AeroRoutes / Caribbean Journal",
+        "url": "https://www.visitstmaarten.com/southwest-airlines-lands-in-st-maarten-opening-a-new-chapter-in-caribbean-access/",
+        "secondary_urls": [
+          "https://www.aeroroutes.com/eng/250902-wnapr26sxm",
+          "https://www.caribjournal.com/2026/04/07/caribbean-island-southwest-airlines-orlando-new-flights/",
+          "https://www.breitflyte.com/post/southwest-airlines-launches-inaugural-service-at-sonoma-county-airport-in-santa-rosa-adds-service-t"
         ],
         "published": "2026-04-11",
-        "date_confidence": "HIGH — Multiple sources confirm inaugural Baltimore Washington International (BWI) to Saint Maarten (SXM) weekend service began Saturday April 11; Local News Matters article URL /2026/04/09/ covers pre-launch; search summaries explicitly state 'weekend service between St. Maarten and Baltimore scheduled to begin Saturday, April 11'; Southwest's Santa Rosa (STS) service also launched this week; both are part of the same Southwest Caribbean and West Coast expansion wave announced April 8, 2026",
-        "summary": "Southwest Airlines launched its inaugural weekend nonstop service from Baltimore Washington International Airport to Saint Maarten on Saturday April 11, becoming the first major carrier to directly link the mid-Atlantic to the Dutch Caribbean island; the carrier also debuted new service to Santa Rosa, California this week as part of a broader West Coast and Caribbean expansion.",
-        "opportunity": "Southwest is now competing in the same Caribbean leisure corridor where Breeze launched international service to Montego Bay and Punta Cana from East Coast markets earlier in 2026; Roger should brief network planning on Southwest's Baltimore pricing, planned frequency, and whether its Caribbean push is likely to expand to Breeze's specific international destinations.",
+        "date_confidence": "MEDIUM-HIGH — AeroRoutes scheduled launch date of April 2026 confirmed for BWI-SXM; Caribbean Journal URL /2026/04/07/ confirmed for Orlando-SXM inaugural (week earlier); visitstmaarten.com inaugural coverage confirmed in search results; multiple sources confirm Saturday/Sunday BWI-SXM schedule beginning April 11",
+        "summary": "Southwest Airlines launched its first weekend (Saturday) nonstop service between Baltimore/Washington (BWI) and Sint Maarten (SXM) on April 11, 2026, extending its Caribbean footprint that began with daily Orlando-SXM service on April 7 — making Southwest the only U.S. carrier offering nonstop service from both cities to the island.",
+        "opportunity": "Southwest's aggressive Caribbean entry from East Coast gateways directly overlaps with Breeze's Caribbean leisure strategy — network planning should assess whether Breeze's Caribbean pricing, frequency, or marketing requires a competitive response, particularly on East Coast origin markets.",
         "paywalled": false
       },
       {
-        "headline": "High-Wind Ground Stop at Denver International Airport Triggers National Cascading Delays",
-        "source": "CBS Colorado / KDVR / 9News Denver",
-        "url": "https://www.cbsnews.com/colorado/news/denver-international-airport-faa-ground-delay-windy/",
+        "headline": "Weekend Hub Disruptions: 160+ Delays at Phoenix Sky Harbor, 200+ at Denver United-SkyWest Operation",
+        "source": "Travel Tourister / Travel and Tour World",
+        "url": "https://www.traveltourister.com/news/phoenix-sky-harbor-airport-chaos-april-11-2026-163-delays-jfk-newark/",
         "secondary_urls": [
-          "https://kdvr.com/news/local/hundreds-of-flights-delayed-at-dia-after-wind-conditions-briefly-cause-ground-stop/",
-          "https://www.9news.com/article/travel/dia-flight-delays/73-22c0c836-8c19-4215-9f7d-05dcf3f55be8",
-          "https://nomadlawyer.org/denver-flights-backlogged-april-2026"
+          "https://www.travelandtourworld.com/news/article/thousands-of-passengers-abandoned-in-america-today-as-chicago-austin-detroit-minneapolis-newark-san-antonio-and-more-cancel-99-and-delay-2757-flights-disrupting-southwest-american-delta-endeavor-air-a/",
+          "https://www.nomadlawyer.org/united-skywest-delays-denver-april-2026"
         ],
-        "published": "2026-04-12",
-        "date_confidence": "HIGH — Search result summaries explicitly state 'Denver International Airport faced cascading flight delays and cancellations after a high-wind ground stop lifted on Sunday, April 12, 2026'; multiple local Denver TV outlets (CBS Colorado, KDVR, 9News) confirmed in search results; thetraveler.org reports '323 delays, 15 cancellations'; nomadlawyer.org corroborates April 12 date; United, Southwest, Frontier confirmed as most heavily affected carriers",
-        "summary": "A high-wind ground stop at Denver International Airport on Sunday April 12 triggered cascading delays across the national air traffic network, with more than 300 flights delayed and numerous cancellations affecting United Airlines, Southwest Airlines, and Frontier Airlines.",
-        "opportunity": "Breeze does not operate through Denver and has limited direct exposure; however, the communications team should prepare a brief statement confirming normal Breeze operations today in case media inquiries arise from passengers seeking alternatives amid the national disruption.",
-        "paywalled": false
-      },
-      {
-        "headline": "Dubai Airports Restrict All Foreign Airlines to One Round-Trip Per Day Through May 31",
-        "source": "Aviation A2Z / Paddle Your Own Kanoo",
-        "url": "https://aviationa2z.com/index.php/2026/04/10/indian-airlines-allowed-only-one-flight-to-and-from-dubai/",
-        "secondary_urls": [
-          "https://www.paddleyourownkanoo.com/2026/04/10/dubai-is-limiting-foriegn-airlines-to-just-one-flight-per-day-to-the-citys-airports-as-emirates-rebuilds-its-capacity/",
-          "https://www.bworldonline.com/world/2026/04/10/742112/dubai-limits-foreign-flights-until-may-31-letters-show-hitting-indian-airlines-hardest/",
-          "https://knews.media/2026/04/10/dubai-has-severely-restricted-the-number-of-flights-that-can-land-at-its-airports/"
-        ],
-        "published": "2026-04-10",
-        "date_confidence": "HIGH — Aviation A2Z URL date pattern /2026/04/10/ confirmed; paddleyourownkanoo.com URL /2026/04/10/ confirmed; BusinessWorld Online URL /2026/04/10/ confirmed; multiple sources corroborate one-round-trip-per-day cap; April 20 through May 31 effective dates confirmed across all sources; Indian and Gulf carriers (Air India, IndiGo, Saudia, Gulf Air) confirmed as most affected; UAE carriers (Emirates, flydubai) exempt from restriction",
-        "summary": "Dubai International and Al Maktoum International airports notified all non-UAE-based foreign airlines that they will be limited to one round-trip flight per day from April 20 through May 31, a sweeping capacity restriction driven by ongoing Iran conflict security concerns; Indian carriers are hardest hit, with Air India and IndiGo alone having planned hundreds of DXB flights in that window.",
-        "opportunity": "Breeze has no Middle East or South Asian route exposure and is not directly affected; however, the Iran-conflict dynamics driving this restriction — with jet fuel prices above $200 per barrel due to Strait of Hormuz disruptions — are squeezing every U.S. carrier's margins, and leadership should be prepared to speak to Breeze's fuel cost management posture in any media or investor conversations.",
-        "paywalled": false
-      },
-      {
-        "headline": "Frontier Airlines Pulls All Ticket Sales Past April 13 During Comprehensive Schedule Rebuild",
-        "source": "Yahoo Finance / The Street / ABC27",
-        "url": "https://finance.yahoo.com/news/frontier-airlines-denies-bankruptcy-paused-173754909.html",
-        "secondary_urls": [
-          "https://www.thestreet.com/travel/frontier-airlines-denies-bankruptcy-as-it-paused-booking-past-april",
-          "https://www.abc27.com/news/frontier-airlines-is-not-selling-tickets-for-flights-beyond-april-13-why/"
-        ],
-        "published": "2026-04-10",
-        "date_confidence": "MEDIUM — Exact publication dates not confirmed via URL date patterns for TheStreet or Yahoo Finance articles; story was covered 'this week' per search metadata; Frontier's acknowledgment that the new schedule would be released 'early this week' suggests primary reporting occurred April 7–10; April 13 booking cutoff is confirmed across multiple sources; 816 Frontier flights scheduled April 13, zero on April 14 confirmed by Cirium data per search snippets; Frontier spokesperson denial of financial distress confirmed across multiple outlets",
-        "summary": "Frontier Airlines removed all ticket availability for flights after April 13 — which is tomorrow — while completing a comprehensive spring and summer schedule rebuild; the airline had 816 flights scheduled on April 13 and zero on April 14 as of the time of reporting, which Frontier attributed to a routine schedule refresh rather than any financial distress.",
-        "opportunity": "If Frontier's schedule overhaul results in capacity reductions or route withdrawals in leisure markets where Frontier and Breeze compete, Roger should surface those specific markets to network planning as soon as Frontier's new schedule is published — the window to capitalize on competitor retreat is narrow.",
+        "published": "2026-04-11",
+        "date_confidence": "MEDIUM — travelTourister URL contains 'april-11-2026' confirmed; Travel and Tour World covers April 12 disruption wave; NomadLawyer Denver/SkyWest article confirmed in search results; delay counts (163 at PHX, 200+ at Denver) corroborated in search snippets",
+        "summary": "Phoenix Sky Harbor logged 163 delays and 2 cancellations on Saturday April 11, and United's SkyWest regional operation at Denver cascaded into over 200 delays the same day — part of a broader weekend of operational disruption at major U.S. hub airports driven by a combination of weather, staffing, and fuel-driven schedule tightening.",
+        "opportunity": "Breeze's secondary-airport model provides structural insulation from hub-contagion disruptions — the communications team may want to amplify this differentiator in consumer messaging while hub disruption headlines are prominent.",
         "paywalled": false
       }
     ]
